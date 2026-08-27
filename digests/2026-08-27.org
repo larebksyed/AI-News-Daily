@@ -1,0 +1,23 @@
+* AI Digest — 2026-08-27
+
+** Signal (LLM-filtered)
+- Hugging Face incident signals platform stability concerns for AI model hosting
+- Laion Big Video Dataset released as major multimodal training resource
+- Qwen 3.8-Flash-Next demonstrates continued capability improvements in efficient models
+- WebMCP Challenge from OpenAI establishes protocol standard for AI tool integration
+
+** Hacker News (last 24h, sorted by points)
+- [[https://github.com/SenteLabsAI/OpenExecutive][CEO fired developers to make room for AI. Developers create open source AI CEO]] (296pts, 177 comments)
+- [[https://openai.com/index/hugging-face-incident-and-the-road-ahead/][The Hugging Face incident and the road ahead]] (223pts, 264 comments)
+- [[https://entropicthoughts.com/curmudgeon-tries-language-server][A curmudgeon tries a language server]] (73pts, 50 comments)
+- [[https://hnstats.com][Show HN: How much of Hacker News is about AI?]] (69pts, 46 comments)
+- [[https://www.risklytics.ai/][Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies]] (47pts, 19 comments)
+- [[https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/][I miss the old Claude Code]] (36pts, 22 comments)
+- [[https://projects.laion.ai/bvd/][Laion Big Video Dataset]] (34pts, 5 comments)
+- [[https://openai.com/webmcp-challenge/][WebMCP Challenge – OpenAI]] (20pts, 5 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts][Bringing ChatGPT for Teachers to more U.S. school districts]] — OpenAI Blog
+- [[https://openai.com/index/learning-never-stops][Learning never stops: How AI makes learning continuous]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Aug/26/qwen38-flash-next/][Qwen3.8-Flash-Next]] — Simon Willison
+- [[https://simonwillison.net/2026/Aug/26/paul-dix/][Quoting Paul Dix]] — Simon Willison
