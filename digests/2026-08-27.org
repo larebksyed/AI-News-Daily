@@ -1,18 +1,18 @@
 * AI Digest — 2026-08-27
 
 ** Signal (LLM-filtered)
-- Developers create open source AI CEO in response to corporate AI decisions.
-- The Hugging Face incident highlights evolving dynamics and future directions in AI.
-- Laion releases a large video dataset, potentially enabling new visual AI advancements.
-- OpenAI announces ChatGPT for Teachers is expanding to more U.S. school districts.
-- Qwen3.8-Flash-Next is released, indicating progress in multimodal AI models.
+- Hugging Face incident highlights potential risks and ethical considerations in open-source AI.
+- Laion Big Video Dataset offers a significant new resource for large-scale video AI research.
+- OpenAI is expanding ChatGPT for Teachers to more U.S. school districts, indicating wider adoption in education.
+- Qwen3.8-Flash-Next represents a notable advancement in the Qwen large language model family.
+- The "CEO fired developers to make room for AI" story suggests a significant shift in workforce dynamics due to AI capabilities.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://github.com/SenteLabsAI/OpenExecutive][CEO fired developers to make room for AI. Developers create open source AI CEO]] (296pts, 177 comments)
-- [[https://openai.com/index/hugging-face-incident-and-the-road-ahead/][The Hugging Face incident and the road ahead]] (223pts, 264 comments)
+- [[https://github.com/SenteLabsAI/OpenExecutive][CEO fired developers to make room for AI. Developers create open source AI CEO]] (300pts, 178 comments)
+- [[https://openai.com/index/hugging-face-incident-and-the-road-ahead/][The Hugging Face incident and the road ahead]] (225pts, 264 comments)
 - [[https://entropicthoughts.com/curmudgeon-tries-language-server][A curmudgeon tries a language server]] (73pts, 50 comments)
 - [[https://hnstats.com][Show HN: How much of Hacker News is about AI?]] (69pts, 46 comments)
-- [[https://www.risklytics.ai/][Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies]] (47pts, 19 comments)
+- [[https://www.risklytics.ai/][Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies]] (48pts, 19 comments)
 - [[https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/][I miss the old Claude Code]] (36pts, 22 comments)
 - [[https://projects.laion.ai/bvd/][Laion Big Video Dataset]] (34pts, 5 comments)
 - [[https://openai.com/webmcp-challenge/][WebMCP Challenge – OpenAI]] (20pts, 5 comments)
