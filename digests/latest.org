@@ -1,21 +1,19 @@
 * AI Digest — 2026-08-27
 
 ** Signal (LLM-filtered)
-- Developers created an open-source AI CEO after a real CEO fired developers for AI.
-- Hugging Face incident highlights a significant challenge and the future direction of AI development.
-- Laion Big Video Dataset provides a substantial resource for video generation AI research.
-- OpenAI's WebMCP Challenge addresses complex procedural reasoning tasks.
-- OpenAI is expanding ChatGPT for Teachers to more U.S. school districts.
-- Qwen3.8-Flash-Next represents a new iteration of a large language model.
+- Developers create open source AI CEO, highlighting a potential shift in AI development paradigms.
+- The Hugging Face incident and the road ahead points to significant industry dynamics and potential future directions.
+- Laion Big Video Dataset release indicates a substantial advancement in the availability of training data for video AI.
+- Qwen3.8-Flash-Next represents a notable release of a new AI model.
+- WebMCP Challenge from OpenAI suggests a push for more robust and capable multimodal AI.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://github.com/SenteLabsAI/OpenExecutive][CEO fired developers to make room for AI. Developers create open source AI CEO]] (303pts, 181 comments)
-- [[https://openai.com/index/hugging-face-incident-and-the-road-ahead/][The Hugging Face incident and the road ahead]] (225pts, 264 comments)
+- [[https://github.com/SenteLabsAI/OpenExecutive][CEO fired developers to make room for AI. Developers create open source AI CEO]] (339pts, 201 comments)
+- [[https://openai.com/index/hugging-face-incident-and-the-road-ahead/][The Hugging Face incident and the road ahead]] (229pts, 267 comments)
 - [[https://entropicthoughts.com/curmudgeon-tries-language-server][A curmudgeon tries a language server]] (73pts, 50 comments)
-- [[https://hnstats.com][Show HN: How much of Hacker News is about AI?]] (69pts, 46 comments)
 - [[https://www.risklytics.ai/][Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies]] (48pts, 19 comments)
+- [[https://projects.laion.ai/bvd/][Laion Big Video Dataset]] (37pts, 6 comments)
 - [[https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/][I miss the old Claude Code]] (36pts, 22 comments)
-- [[https://projects.laion.ai/bvd/][Laion Big Video Dataset]] (34pts, 6 comments)
 - [[https://openai.com/webmcp-challenge/][WebMCP Challenge – OpenAI]] (21pts, 5 comments)
 
 ** Blogs / changelogs (last 24h)
