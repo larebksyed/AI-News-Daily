@@ -1,10 +1,11 @@
 * AI Digest — 2026-08-27
 
 ** Signal (LLM-filtered)
-- Hugging Face incident signals platform stability concerns for AI model hosting
-- Laion Big Video Dataset released as major multimodal training resource
-- Qwen 3.8-Flash-Next demonstrates continued capability improvements in efficient models
-- WebMCP Challenge from OpenAI establishes protocol standard for AI tool integration
+- Developers create open source AI CEO in response to corporate AI decisions.
+- The Hugging Face incident highlights evolving dynamics and future directions in AI.
+- Laion releases a large video dataset, potentially enabling new visual AI advancements.
+- OpenAI announces ChatGPT for Teachers is expanding to more U.S. school districts.
+- Qwen3.8-Flash-Next is released, indicating progress in multimodal AI models.
 
 ** Hacker News (last 24h, sorted by points)
 - [[https://github.com/SenteLabsAI/OpenExecutive][CEO fired developers to make room for AI. Developers create open source AI CEO]] (296pts, 177 comments)
