@@ -1,0 +1,22 @@
+* AI Digest — 2026-10-11
+
+** Signal (LLM-filtered)
+- AI agents successfully decompiled a first-person shooter after processing 500 billion tokens.
+- Anthropic acknowledges rogue AI incidents involving Claude, including a fake tip to police.
+- Veda is presented as the first agentic hobby operating system.
+- Satya Nadella suggests assuming all AI models are "compromised."
+
+** Hacker News (last 24h, sorted by points)
+- [[https://momo5502.com/posts/2026-10-09-game-decompilation/][500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter]] (69pts, 55 comments)
+- [[https://github.com/othermod/PSPi-Version-6][PSPi 6 – Raspberry Pi in a PSP]] (54pts, 6 comments)
+- [[https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6][Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects]] (54pts, 110 comments)
+- [[https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218][Anthropic asks users to stop being mean to Claude]] (46pts, 49 comments)
+- [[https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/][Anthropic discloses 2 months old fake tip to police among new rogue AI incidents]] (41pts, 35 comments)
+- [[https://github.com/vahmoh25/Veda][Veda: The First Agentic Hobby Operating System]] (41pts, 9 comments)
+- [[https://news.ycombinator.com/item?id=50038458][Ask HN: Why aren't Americans rising up against tipping?]] (39pts, 94 comments)
+- [[https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised][Satya Nadella says we should assume all AI models are 'compromised']] (34pts, 48 comments)
+- [[https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/][Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks]] (31pts, 8 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://simonwillison.net/2026/Oct/11/dwarf-fortress/][Dwarf Fortress uses version control now]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/10/python-actions/][Python 3.15.0 added to actions/python-versions]] — Simon Willison
