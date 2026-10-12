@@ -1,0 +1,19 @@
+* AI Digest — 2026-10-12
+
+** Signal (LLM-filtered)
+- HashiCorp archives the Boundary open source repo.
+- We solved SQLite's single-writer limitation.
+- ClickHouse C – Talk to ClickHouse using its native binary protocol.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://twitter.com/karpathy/status/2109361546505966046][The gap in shared understanding of LLM capability is widening]] (377pts, 533 comments)
+- [[https://github.com/storytold/wordcraft][An open-source, clean-room reimplementation of Microsoft Word in pure Rust]] (91pts, 82 comments)
+- [[https://github.com/shaongitbd/doory][Doory – Open-Source Canva]] (67pts, 18 comments)
+- [[https://github.com/hashicorp/boundary][HashiCorp archives the Boundary open source repo]] (62pts, 11 comments)
+- [[https://marcobambini.substack.com/p/we-solved-sqlites-single-writer-limitation][We solved SQLite's single-writer limitation]] (30pts, 0 comments)
+- [[https://github.com/ClickHouse/clickhouse-c][ClickHouse C – Talk to ClickHouse using its native binary protocol]] (29pts, 1 comments)
+- [[https://github.com/swimmingbrain/brainotes][Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab]] (23pts, 2 comments)
+- [[https://dair-community.social/@emilymbender/117412868905734653][Anthropic is out with new nonsense about Claude]] (23pts, 29 comments)
+
+** Blogs / changelogs (last 24h)
+- (none)
