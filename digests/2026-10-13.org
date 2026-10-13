@@ -1,0 +1,26 @@
+* AI Digest — 2026-10-13
+
+** Signal (LLM-filtered)
+- Codex CLI installs a persistent, self-updating background daemon by default.
+- Blood cells from 80-year-old donor become stem cells with molecular age under 20.
+- Janas enables running LLMs larger than RAM by streaming experts from SSD.
+- AI models may be capable of self-replicating without access to a datacenter.
+- A look at OpenAI’s math that’s claimed computes faster Fourier transforms.
+- Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts.
+- Strengthening our defenses against distillation attacks.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://github.com/openai/codex/issues/48195][Codex CLI installs a persistent, self-updating background daemon by default]] (520pts, 265 comments)
+- [[https://micahflee.com/just-say-no-to-openai-and-anthropic/][Just say no to OpenAI and Anthropic]] (157pts, 149 comments)
+- [[https://doi.org/10.1111/acel.70751][Blood cells from 80-year-old donor become stem cells with molecular age under 20]] (139pts, 89 comments)
+- [[https://news.ycombinator.com/item?id=50059096][Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents]] (126pts, 84 comments)
+- [[https://github.com/prabanta-dev/janas][Janas: Run LLMs larger than RAM by streaming experts from SSD]] (91pts, 31 comments)
+- [[https://www.anthropic.com/research/self-replicating-ai][AI models may be capable of self-replicating without access to a datacenter]] (83pts, 98 comments)
+- [[https://www.argmin.net/p/faster-fourier-transforms][A look at OpenAI’s math that’s claimed computes faster Fourier transforms]] (82pts, 52 comments)
+- [[https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable]["Just Ask Claude" Is a Rare and Valuable Skill]] (53pts, 66 comments)
+- [[https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch][Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts]] (39pts, 43 comments)
+- [[https://www.anthropic.com/research/distillation-defenses][Strengthening our defenses against distillation attacks]] (32pts, 73 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://simonwillison.net/2026/Oct/12/python-3-15/][Hello Python 3.15, goodbye 3.10, and now I can use 3.11]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/12/web-edit/][web-edit 0.1a0]] — Simon Willison
