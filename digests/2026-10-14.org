@@ -1,0 +1,30 @@
+* AI Digest — 2026-10-14
+
+** Signal (LLM-filtered)
+- Google announces Gemini 4 Argon, designed for complex problem-solving.
+- Gemini 4 Argon is being adapted for robotics applications.
+- OpenAI is investigating an arrested employee linked to a bugging device in their offices.
+- Anthropic is rethinking its source control strategies.
+- OpenAI's Higgsfield technology significantly extends AI video generation capacity.
+- Consus launches an LLM gateway for secure handling of sensitive corporate data.
+- Pulse Local offers a Mac budgeting app with on-device AI model execution.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://deepmind.google/models/gemini/][Gemini 4 Argon]] (1173pts, 836 comments)
+- [[https://www.anthropic.com/engineering/redesigning-source-control][Redesigning source control at Anthropic]] (668pts, 641 comments)
+- [[https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/][OpenAI engineer arrested in bugging of executive conference room]] (507pts, 433 comments)
+- [[https://developers.googleblog.com/gemini-4-argon-for-robotics/][Gemini 4 Argon for Robotics]] (206pts, 48 comments)
+- [[https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code][How to engineer an AI harness for game development]] (143pts, 65 comments)
+- [[https://pulseos.finance][Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine]] (95pts, 49 comments)
+- [[https://twitter.com/OpenAINewsroom/status/2110095403198849132][OpenAI finds recording device in one of their offices]] (83pts, 2 comments)
+- [[https://parsimony.lasu.dev/][Show HN: Parsimony – an open-source benchmark for how much code AI models add]] (63pts, 11 comments)
+- [[https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/][AI models may soon self-replicate without access to data centers]] (39pts, 57 comments)
+- [[https://www.reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13/][OpenAI employee arrested by FBI over hidden listening device, company says]] (34pts, 10 comments)
+- [[https://news.ycombinator.com/item?id=50073471][Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data]] (33pts, 17 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/higgsfield-longer-videos-voice][Higgsfield takes AI video from 1 minute to over 10]] — OpenAI Blog
+- [[https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/][Gemini 4 Argon: Built to solve your hardest problems]] — Google AI Blog
+- [[https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/][Redesigning source control at Anthropic]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/13/llm-gemini/][llm-gemini 0.35]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/13/geoffrey-huntley/][Quoting Geoffrey Huntley]] — Simon Willison
