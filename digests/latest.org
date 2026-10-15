@@ -1,30 +1,29 @@
-* AI Digest — 2026-10-14
+* AI Digest — 2026-10-15
 
 ** Signal (LLM-filtered)
-- Google announces Gemini 4 Argon, designed for complex problem-solving.
-- Gemini 4 Argon is being adapted for robotics applications.
-- OpenAI is investigating an arrested employee linked to a bugging device in their offices.
-- Anthropic is rethinking its source control strategies.
-- OpenAI's Higgsfield technology significantly extends AI video generation capacity.
-- Consus launches an LLM gateway for secure handling of sensitive corporate data.
-- Pulse Local offers a Mac budgeting app with on-device AI model execution.
+- Anthropic's Scion is heavily inspired by Mononoke, suggesting a new direction in AI development.
+- Petal, an open-source CoScreen/ScreenHero, offers a significant utility enhancement.
+- LFM2.5-24B-A2B is built for fast on-device agents, indicating progress in edge AI capabilities.
+- OpenAI Amp enables AI agents to perform tasks beyond coding, expanding AI application scope.
+- SentinelOne dramatically reduces malware analysis time using AI, showcasing practical efficiency gains.
+- Third Moment Research demonstrates running 10,000 agents for extended durations, highlighting scalable AI deployment.
+- Block leverages OpenAI technology for AI-powered security, signaling industry adoption of advanced AI solutions.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://deepmind.google/models/gemini/][Gemini 4 Argon]] (1173pts, 836 comments)
-- [[https://www.anthropic.com/engineering/redesigning-source-control][Redesigning source control at Anthropic]] (668pts, 641 comments)
-- [[https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/][OpenAI engineer arrested in bugging of executive conference room]] (507pts, 433 comments)
-- [[https://developers.googleblog.com/gemini-4-argon-for-robotics/][Gemini 4 Argon for Robotics]] (206pts, 48 comments)
-- [[https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code][How to engineer an AI harness for game development]] (143pts, 65 comments)
-- [[https://pulseos.finance][Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine]] (95pts, 49 comments)
-- [[https://twitter.com/OpenAINewsroom/status/2110095403198849132][OpenAI finds recording device in one of their offices]] (83pts, 2 comments)
-- [[https://parsimony.lasu.dev/][Show HN: Parsimony – an open-source benchmark for how much code AI models add]] (63pts, 11 comments)
-- [[https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/][AI models may soon self-replicate without access to data centers]] (39pts, 57 comments)
-- [[https://www.reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13/][OpenAI employee arrested by FBI over hidden listening device, company says]] (34pts, 10 comments)
-- [[https://news.ycombinator.com/item?id=50073471][Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data]] (33pts, 17 comments)
+- [[https://sunshowers.io/posts/anthropic-mononoke/][Anthropic's Scion is heavily inspired by Mononoke]] (337pts, 125 comments)
+- [[https://petal.live/][Show HN: Petal, open-source CoScreen/ScreenHero finally free]] (149pts, 36 comments)
+- [[https://www.liquid.ai/blog/lfm2-5-24b-a2b][LFM2.5-24B-A2B: Built for fast on-device agents]] (148pts, 37 comments)
+- [[https://news.ycombinator.com/item?id=50084969][Ask HN: What is the current trajectory of a senior engineer?]] (41pts, 78 comments)
+- [[https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html][Bank of America hired 1000 contractors to patch software flaws exposed by Mythos]] (31pts, 12 comments)
+- [[https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b][Anthropic revenue jumps to $16.8B in third quarter]] (28pts, 15 comments)
+- [[https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a][OpenAI claims employee sent secret device information to Apple]] (27pts, 13 comments)
+- [[https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/][OpenAI: Employee who left for Apple took files about unreleased device]] (22pts, 7 comments)
+- [[https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6][Anthropic revenue jumps to $16.8B in third quarter, claims profitable]] (21pts, 2 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://openai.com/index/higgsfield-longer-videos-voice][Higgsfield takes AI video from 1 minute to over 10]] — OpenAI Blog
-- [[https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/][Gemini 4 Argon: Built to solve your hardest problems]] — Google AI Blog
-- [[https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/][Redesigning source control at Anthropic]] — Simon Willison
-- [[https://simonwillison.net/2026/Oct/13/llm-gemini/][llm-gemini 0.35]] — Simon Willison
-- [[https://simonwillison.net/2026/Oct/13/geoffrey-huntley/][Quoting Geoffrey Huntley]] — Simon Willison
+- [[https://openai.com/index/amp-beyond-coding][Amp puts AI agents to work beyond code with OpenAI models]] — OpenAI Blog
+- [[https://openai.com/index/sentinelone][SentinelOne cuts malware analysis from weeks to hours]] — OpenAI Blog
+- [[https://openai.com/index/third-moment-research][How Third Moment Research runs 10,000 agents for 36+ hours]] — OpenAI Blog
+- [[https://openai.com/index/block-ai-powered-security][How Block is building AI-powered security with OpenAI technology]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Oct/14/tree-appreciator/][Tree Appreciator]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/][AI is mass decompiling games. That's both awesome and scary.]] — Simon Willison
