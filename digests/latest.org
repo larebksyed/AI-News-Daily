@@ -1,17 +1,22 @@
-* AI Digest — 2026-10-16
+* AI Digest — 2026-10-17
 
 ** Signal (LLM-filtered)
-- OpenAI brings GPT-Rosalind to academic research labs.
-- OpenAI teaches students to think and learn through questions.
-- Anthropic reports quarterly revenue up nearly 50% to $16.8bn.
+- Gemini 4 Argon plays StarCraft, demonstrating advanced game-playing capabilities.
+- Llama.cpp runs GGUF models natively on a jailbroken PS5, indicating broader hardware accessibility for LLMs.
+- Itaú is building generative AI for its entire customer base, signaling enterprise-wide AI adoption.
+- Claude reveals ECDSA curve origins, suggesting deeper insights into fundamental cryptographic components.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://sunshowers.io/posts/anthropic-mononoke-2/][More on Anthropic's Scion ripping off Mononoke]] (236pts, 76 comments)
-- [[https://www.anthropic.com/news/an-update-on-independent-evaluators][An update on independent evaluators]] (28pts, 8 comments)
-- [[https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits][2026 State of the Climate Report]] (26pts, 5 comments)
+- [[https://www.anthropic.com/research/ecdsa-curve-origins][Claude reveals ECDSA curve origins]] (794pts, 302 comments)
+- [[https://claude.dev/blog/solving-code-review-at-anthropic/][How the Claude Code team does code review]] (296pts, 277 comments)
+- [[https://github.com/cobanov/PS5LM][Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console]] (248pts, 63 comments)
+- [[https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d][Anthropic assigned highest junk credit rating in June]] (239pts, 75 comments)
+- [[https://starskirmish.com/bench/v0-2/][Show HN: Gemini 4 Argon plays StarCraft]] (207pts, 90 comments)
+- [[https://www.anthropic.com/research/designing-efficient-quantum-circuits][Designing more efficient quantum circuits with Claude]] (122pts, 25 comments)
+- [[https://news.ycombinator.com/item?id=50121562][Anthropic Console overcharged my card 100x due to internationalization input bug]] (86pts, 34 comments)
+- [[https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/][Redesigning Source Control at Anthropic]] (31pts, 40 comments)
+- [[https://stoke.money][Show HN: Stoke Money – Personal finance app built around a cash flow forecast]] (25pts, 19 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://openai.com/index/introducing-the-rosalind-academic-plan][Bringing GPT-Rosalind to academic research labs]] — OpenAI Blog
-- [[https://openai.com/index/teaching-students-to-think-and-learn-through-questions][Teaching students to think and learn through questions]] — OpenAI Blog
-- [[https://simonwillison.net/2026/Oct/15/chirp-pong/][Chirp Pong]] — Simon Willison
-- [[https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/][Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO]] — Simon Willison
+- [[https://openai.com/index/itau-generative-ai][How Itaú is building generative AI for its entire customer base]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Oct/16/code-review/][Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang]] — Simon Willison
