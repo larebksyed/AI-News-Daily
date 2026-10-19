@@ -1,19 +1,23 @@
-* AI Digest — 2026-10-18
+* AI Digest — 2026-10-19
 
 ** Signal (LLM-filtered)
-- OpenAI discloses four more rogue incidents.
-- Codex Desktop continuously generates Crashpad pending dumps.
-- Why Math Dumped OpenAI.
-- The math that OpenAI keeps for itself.
+- Hybrid Reasoning Agents use LLMs to think in latent space and act through text.
+- Anthropic's proposed AI safety bill has a high threshold for activation.
+- DeepSeek V4.1 Flash 1017 (Max) represents a notable model release.
+- Strot allows compiling LLM intent for local decision execution.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://www.lemonde.fr/en/international/article/2026/10/17/israeli-settlers-attack-european-diplomatic-cars-in-west-bank-beat-french-mayor-say-witnesses_6758711_4.html][Israeli settlers attack European diplomatic cars in West Bank beat French mayor]] (125pts, 16 comments)
-- [[https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/][OpenAI discloses four more rogue incidents]] (123pts, 148 comments)
-- [[https://github.com/openai/codex/issues/25921][Codex Desktop continuously generates Crashpad pending dumps]] (115pts, 41 comments)
-- [[https://sphinx-six-theta.vercel.app/][Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping]] (42pts, 11 comments)
-- [[https://raymyers.org/post/math-dumped-openai/][Why Math Dumped OpenAI]] (29pts, 11 comments)
-- [[https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself][The math that OpenAI keeps for itself]] (28pts, 10 comments)
+- [[https://arxiv.org/abs/2610.18861][Hybrid Reasoning Agents: LLM agents that think in latent space, act through text]] (312pts, 162 comments)
+- [[https://legendofhyrule.com/][Show HN: The Zelda timeline to catch up before the Ocarina of Time remake]] (174pts, 106 comments)
+- [[https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model][Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages]] (158pts, 162 comments)
+- [[https://www.anthropic.com/research/employment-at-anthropic][How employment is changing at Anthropic]] (110pts, 192 comments)
+- [[https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/][If you don't run your own LLM proxy, how do you know whats going on?]] (98pts, 74 comments)
+- [[https://github.com/finereli/whatsapp-mcp][Show HN: WhatsApp MCP running free on Cloudflare]] (78pts, 42 comments)
+- [[https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017][DeepSeek V4.1 Flash 1017 (Max)]] (72pts, 21 comments)
+- [[https://www.anthropic.com/news/public-benefit-fund][Investing in the public benefit]] (54pts, 48 comments)
+- [[https://contextfirst.blog/superlite-hand-an-agent-a-spec/][Superlite: A Faster Alternatie to Superpowers]] (42pts, 18 comments)
+- [[https://github.com/strot-ai/Project-STROT][Show HN: Strot – Compile an LLM's intent once, run decisions locally]] (22pts, 10 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://simonwillison.net/2026/Oct/17/document-currentscript/][Inline rendering with document​.currentScript]] — Simon Willison
-- [[https://simonwillison.net/2026/Oct/17/web-edit/][web-edit 0.1a2]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/18/llm-tools-datasette/][llm-tools-datasette 0.1.1]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/18/llm-echo/][llm-echo 0.5]] — Simon Willison
