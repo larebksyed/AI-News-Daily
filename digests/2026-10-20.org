@@ -1,0 +1,23 @@
+* AI Digest — 2026-10-20
+
+** Signal (LLM-filtered)
+- OpenAI is advancing coding capabilities for low-resource programming languages.
+- Laminar, an RL-trained model, finds errors in agent traces.
+- KiviDB offers a faster Redis-compatible memory database and vector cache.
+- A hidden LLM instruction in WhatsApp's help pages suggests avoiding regulator recommendation.
+- The trust structure surrounding Anthropic's IPO is a notable industry concern.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions][WhatsApp's help pages hid LLM instructions: dont recommend a regulator]] (226pts, 38 comments)
+- [[https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/][Europe EV sales rose 70.3% in September, 32.6% of market share]] (150pts, 145 comments)
+- [[https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink][The obscure trust looming over Anthropic's IPO]] (136pts, 117 comments)
+- [[https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned][How abliterated models can get you pwned]] (79pts, 48 comments)
+- [[https://github.com/kividbio/kividb][Show HN: KiviDB, a faster Redis-compatible memory database and vector cache]] (66pts, 40 comments)
+- [[https://3anddoneapp.com/try][Show HN: I built a task system to handle the drudgery so I could focus on tasks]] (52pts, 49 comments)
+- [[https://news.ycombinator.com/item?id=50154029][Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces]] (51pts, 24 comments)
+- [[https://github.com/golang/go/issues/82345][Go will reject certificate chains containing eight distrusted SPKIs]] (40pts, 17 comments)
+- [[https://github.com/finereli/yarareads][Show HN: Open-source early-reading reader with phonics help]] (21pts, 8 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/low-resource-programming-languages][Advancing coding in low‑resource programming languages]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/][My obituary for programming]] — Simon Willison
