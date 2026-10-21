@@ -1,0 +1,24 @@
+* AI Digest — 2026-10-21
+
+** Signal (LLM-filtered)
+- Claude designed protein binders against scorpion neurotoxins.
+- Gemini 4 Argon is now available for everyone.
+- Respan (YC W24) is an open-source Rust AI gateway built around plugins.
+- ChatGPT Work helps franchisees reconcile cash in 94% less time.
+- GPT-6.1 matches senior investor judgment 88.6% for Terminal X.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://entropicthoughts.com/nixos-is-making-me-less-afraid][NixOS is making me less afraid]] (176pts, 119 comments)
+- [[https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/][Anthropic logged net loss of over $80B in first half of 2026]] (137pts, 60 comments)
+- [[https://www.anthropic.com/research/claude-scorpion-toxin-binder-design][Claude designed protein binders against scorpion neurotoxins]] (102pts, 66 comments)
+- [[https://openai.com/index/low-resource-programming-languages/][Advanced coding in low-resource programming languages]] (62pts, 68 comments)
+- [[https://news.ycombinator.com/item?id=50167583][Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins]] (48pts, 19 comments)
+- [[https://twitter.com/Polymarket/status/2112634886070919426][Anthropic recorded a staggering $80B net loss in the first half of 2026]] (31pts, 17 comments)
+- [[https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/][Gemini 4 Argon is now available for everyone]] (22pts, 7 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/ted-taylor-restaurant][Franchisee reconciles cash in 94% less time with ChatGPT Work]] — OpenAI Blog
+- [[https://openai.com/index/terminal-x][Terminal X matches senior investor judgment 88.6% with GPT-6.1]] — OpenAI Blog
+- [[https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/][Southeast Asia’s digital economy to hit $368 billion]] — Google AI Blog
+- [[https://simonwillison.net/2026/Oct/20/emudhra-certificates/][eMudhra Intermediate CA Compromise]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/20/battledrones/][Battle Drones - a vibe coded RTS with audio-based multiplayer]] — Simon Willison
