@@ -1,24 +1,33 @@
-* AI Digest — 2026-10-21
+* AI Digest — 2026-10-22
 
 ** Signal (LLM-filtered)
-- Claude designed protein binders against scorpion neurotoxins.
-- Gemini 4 Argon is now available for everyone.
-- Respan (YC W24) is an open-source Rust AI gateway built around plugins.
-- ChatGPT Work helps franchisees reconcile cash in 94% less time.
-- GPT-6.1 matches senior investor judgment 88.6% for Terminal X.
+- Claude Duet represents a significant new offering in conversational AI.
+- GitLab released a critical patch, highlighting ongoing security efforts in essential infrastructure.
+- Patch the Planet demonstrates the growing capability of AI agents in cybersecurity.
+- OpenAI models are coming to Google Cloud, a major industry collaboration.
+- LLM agents playing Pokemon showdown showcases advancements in AI agent complex interaction.
+- Omnara offers an open-source alternative to managed agent services, indicating decentralization trends.
+- Research achieved a breakthrough in integer multiplication, pushing computational boundaries.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://entropicthoughts.com/nixos-is-making-me-less-afraid][NixOS is making me less afraid]] (176pts, 119 comments)
-- [[https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/][Anthropic logged net loss of over $80B in first half of 2026]] (137pts, 60 comments)
-- [[https://www.anthropic.com/research/claude-scorpion-toxin-binder-design][Claude designed protein binders against scorpion neurotoxins]] (102pts, 66 comments)
-- [[https://openai.com/index/low-resource-programming-languages/][Advanced coding in low-resource programming languages]] (62pts, 68 comments)
-- [[https://news.ycombinator.com/item?id=50167583][Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins]] (48pts, 19 comments)
-- [[https://twitter.com/Polymarket/status/2112634886070919426][Anthropic recorded a staggering $80B net loss in the first half of 2026]] (31pts, 17 comments)
-- [[https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/][Gemini 4 Argon is now available for everyone]] (22pts, 7 comments)
+- [[https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b][mitmproxy adds --emudhra option]] (372pts, 95 comments)
+- [[https://claude.com/product/claude-duet][Claude Duet]] (343pts, 309 comments)
+- [[https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/][GitLab critical patch release]] (298pts, 71 comments)
+- [[https://google.github.io/styleguide/rustguide.html][Rust Style Guide]] (267pts, 146 comments)
+- [[https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/][Patch the Planet: global response coordination as agents uncover vulnerabilities]] (248pts, 167 comments)
+- [[https://claude.com/resources/articles/claude-duet][Claude Duet]] (69pts, 7 comments)
+- [[https://github.com/omnara-ai/omnara][Show HN: Omnara – Open-source alternative to Claude Managed Agents]] (54pts, 15 comments)
+- [[https://www.anthropic.com/public-benefit-charter][Anthropic's Public Benefit Charter]] (47pts, 59 comments)
+- [[https://github.com/CrocSwap/integer-mult-bounds/pull/4441][Κ = 0.003 for integer multiplication crossed]] (34pts, 19 comments)
+- [[https://olivergrabner.com/research/pokemon/][LLM agents play Pokemon showdown]] (25pts, 14 comments)
+- [[https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report][Data centers could erase decades of air quality gains]] (20pts, 1 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://openai.com/index/ted-taylor-restaurant][Franchisee reconciles cash in 94% less time with ChatGPT Work]] — OpenAI Blog
-- [[https://openai.com/index/terminal-x][Terminal X matches senior investor judgment 88.6% with GPT-6.1]] — OpenAI Blog
-- [[https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/][Southeast Asia’s digital economy to hit $368 billion]] — Google AI Blog
-- [[https://simonwillison.net/2026/Oct/20/emudhra-certificates/][eMudhra Intermediate CA Compromise]] — Simon Willison
-- [[https://simonwillison.net/2026/Oct/20/battledrones/][Battle Drones - a vibe coded RTS with audio-based multiplayer]] — Simon Willison
+- [[https://openai.com/index/att-legal][How AT&T is rethinking in-house legal work with OpenAI]] — OpenAI Blog
+- [[https://openai.com/index/broad-access-through-consistent-standards][Broad access through consistent standards]] — OpenAI Blog
+- [[https://openai.com/index/openai-models-google-cloud][OpenAI models are coming to Google Cloud]] — OpenAI Blog
+- [[https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities][Patch the Planet: global response coordination as agents uncover critical vulnerabilities]] — OpenAI Blog
+- [[https://openai.com/index/chatgpt-ads-expands-26-new-countries][ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform]] — OpenAI Blog
+- [[https://openai.com/index/building-chatgpt-ad-stack][How we built ChatGPT’s novel ad stack for user trust and relevance]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Oct/21/php-security-release/][Today's PHP Security Release, and How We're Strengthening PHP Security]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/21/panache/][Panache — RTS Belle Époque pour mobile]] — Simon Willison

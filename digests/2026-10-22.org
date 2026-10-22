@@ -1,0 +1,33 @@
+* AI Digest — 2026-10-22
+
+** Signal (LLM-filtered)
+- Claude Duet represents a significant new offering in conversational AI.
+- GitLab released a critical patch, highlighting ongoing security efforts in essential infrastructure.
+- Patch the Planet demonstrates the growing capability of AI agents in cybersecurity.
+- OpenAI models are coming to Google Cloud, a major industry collaboration.
+- LLM agents playing Pokemon showdown showcases advancements in AI agent complex interaction.
+- Omnara offers an open-source alternative to managed agent services, indicating decentralization trends.
+- Research achieved a breakthrough in integer multiplication, pushing computational boundaries.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b][mitmproxy adds --emudhra option]] (372pts, 95 comments)
+- [[https://claude.com/product/claude-duet][Claude Duet]] (343pts, 309 comments)
+- [[https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/][GitLab critical patch release]] (298pts, 71 comments)
+- [[https://google.github.io/styleguide/rustguide.html][Rust Style Guide]] (267pts, 146 comments)
+- [[https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/][Patch the Planet: global response coordination as agents uncover vulnerabilities]] (248pts, 167 comments)
+- [[https://claude.com/resources/articles/claude-duet][Claude Duet]] (69pts, 7 comments)
+- [[https://github.com/omnara-ai/omnara][Show HN: Omnara – Open-source alternative to Claude Managed Agents]] (54pts, 15 comments)
+- [[https://www.anthropic.com/public-benefit-charter][Anthropic's Public Benefit Charter]] (47pts, 59 comments)
+- [[https://github.com/CrocSwap/integer-mult-bounds/pull/4441][Κ = 0.003 for integer multiplication crossed]] (34pts, 19 comments)
+- [[https://olivergrabner.com/research/pokemon/][LLM agents play Pokemon showdown]] (25pts, 14 comments)
+- [[https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report][Data centers could erase decades of air quality gains]] (20pts, 1 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/att-legal][How AT&T is rethinking in-house legal work with OpenAI]] — OpenAI Blog
+- [[https://openai.com/index/broad-access-through-consistent-standards][Broad access through consistent standards]] — OpenAI Blog
+- [[https://openai.com/index/openai-models-google-cloud][OpenAI models are coming to Google Cloud]] — OpenAI Blog
+- [[https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities][Patch the Planet: global response coordination as agents uncover critical vulnerabilities]] — OpenAI Blog
+- [[https://openai.com/index/chatgpt-ads-expands-26-new-countries][ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform]] — OpenAI Blog
+- [[https://openai.com/index/building-chatgpt-ad-stack][How we built ChatGPT’s novel ad stack for user trust and relevance]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Oct/21/php-security-release/][Today's PHP Security Release, and How We're Strengthening PHP Security]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/21/panache/][Panache — RTS Belle Époque pour mobile]] — Simon Willison
