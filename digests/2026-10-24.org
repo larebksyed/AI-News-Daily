@@ -1,0 +1,20 @@
+* AI Digest — 2026-10-24
+
+** Signal (LLM-filtered)
+- OpenAI scaled online storage to serve over 1 billion ChatGPT users.
+- OpenAI is securing its frontier model training environment.
+- Corgi is a new agent and terminal multiplexer.
+- Kimi K3.1 Pro has been introduced.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8][Evolving Threat: http2shell is an RCE in Node, Python, and more]] (140pts, 73 comments)
+- [[https://openai.com/index/securing-our-frontier-model-training-environment/][Securing our frontier model training environment]] (99pts, 103 comments)
+- [[https://corgi.computer/][Show HN: Corgi, a helpful {agent, terminal} multiplexer]] (65pts, 15 comments)
+- [[https://twitter.com/ZelenskyyUa/status/2113677048354947180][Volodymyr Zelenskyy: The speed limits on Starlink and Starshield are still there]] (44pts, 14 comments)
+- [[https://rtfeldman.com/fp-vs-c][How close can pure functional programming get to C?]] (36pts, 2 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/scaling-storage-one-billion-users-part-two][Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)]] — OpenAI Blog
+- [[https://openai.com/index/securing-our-frontier-model-training-environment][Securing our frontier model training environment]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Oct/23/quick-study-painter/][Quick Study]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/23/kimi-k31-pro/][Introducing Kimi K3.1 Pro]] — Simon Willison

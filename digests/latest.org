@@ -1,19 +1,20 @@
-* AI Digest — 2026-10-23
+* AI Digest — 2026-10-24
 
 ** Signal (LLM-filtered)
-- LLMs are making formal software verification feasible at a much larger scale.
-- OpenAI introduces the Decisions API for building more responsive applications.
-- A Claude Code mod called agent-usage-guard is released to protect usage windows.
-- Agent Skills are being donated to the Agentic AI Foundation.
+- OpenAI scaled online storage to serve over 1 billion ChatGPT users.
+- OpenAI is securing its frontier model training environment.
+- Corgi is a new agent and terminal multiplexer.
+- Kimi K3.1 Pro has been introduced.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://www.anthropic.com/research/formal-verification][LLMs are making formal software verification feasible at a much larger scale]] (241pts, 131 comments)
-- [[https://news.ycombinator.com/item?id=50200997][Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?]] (65pts, 68 comments)
-- [[https://www.cnn.com/2026/10/21/climate/cop31-un-climate-report-emissions-gap][UN says breaching 1.5C warming limit is 'imminent and unavoidable']] (35pts, 22 comments)
-- [[https://github.com/rbartoli/agent-usage-guard][Show HN: agent-usage-guard – a Claude Code mod to protect your usage window]] (23pts, 9 comments)
+- [[https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8][Evolving Threat: http2shell is an RCE in Node, Python, and more]] (140pts, 73 comments)
+- [[https://openai.com/index/securing-our-frontier-model-training-environment/][Securing our frontier model training environment]] (99pts, 103 comments)
+- [[https://corgi.computer/][Show HN: Corgi, a helpful {agent, terminal} multiplexer]] (65pts, 15 comments)
+- [[https://twitter.com/ZelenskyyUa/status/2113677048354947180][Volodymyr Zelenskyy: The speed limits on Starlink and Starshield are still there]] (44pts, 14 comments)
+- [[https://rtfeldman.com/fp-vs-c][How close can pure functional programming get to C?]] (36pts, 2 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://openai.com/index/decisions-api][Build more responsive apps with the Decisions API]] — OpenAI Blog
-- [[https://simonwillison.net/2026/Oct/22/de-staat-freedom/][DE STAAT - FREEDOM (Official Music Video)]] — Simon Willison
-- [[https://simonwillison.net/2026/Oct/22/donating-agent-skills/][Donating Agent Skills to the Agentic AI Foundation]] — Simon Willison
-- [[https://simonwillison.net/2026/Oct/22/armin-ronacher/][Quoting Armin Ronacher]] — Simon Willison
+- [[https://openai.com/index/scaling-storage-one-billion-users-part-two][Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)]] — OpenAI Blog
+- [[https://openai.com/index/securing-our-frontier-model-training-environment][Securing our frontier model training environment]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Oct/23/quick-study-painter/][Quick Study]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/23/kimi-k31-pro/][Introducing Kimi K3.1 Pro]] — Simon Willison
