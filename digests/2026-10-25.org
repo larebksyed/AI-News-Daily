@@ -1,0 +1,19 @@
+* AI Digest — 2026-10-25
+
+** Signal (LLM-filtered)
+- Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness.
+- Cerebras Deploys Trillion-Parameter AI Models.
+- Argus – a free, open-source agentic security operations platform – MIT.
+- Oai-math-revised: a community hub for revising OpenAI's math write-ups.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://github.com/slee-persis/GVS5H][Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness]] (101pts, 29 comments)
+- [[https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras][Cerebras Deploys Trillion-Parameter AI Models]] (77pts, 24 comments)
+- [[https://ratfactor.com/cards/limitations][The Importance of Limitations for Creativity and Learning (2023)]] (50pts, 12 comments)
+- [[https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/][Oai-math-revised: a community hub for revising OpenAI's math write-ups]] (41pts, 33 comments)
+- [[https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films]["Musk" Documentary Pulled from Almost Every One of 472 Theaters After One Week]] (39pts, 11 comments)
+- [[https://thomasunise.com/argus][Argus – a free, open-source agentic security operations platform – MIT]] (27pts, 9 comments)
+- [[https://twitter.com/chrislakin/status/2113358733548081528][Claude Code slyly adding users' emails to outbound HTTP]] (21pts, 4 comments)
+
+** Blogs / changelogs (last 24h)
+- (none)

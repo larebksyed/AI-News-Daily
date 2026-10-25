@@ -1,20 +1,19 @@
-* AI Digest — 2026-10-24
+* AI Digest — 2026-10-25
 
 ** Signal (LLM-filtered)
-- OpenAI scaled online storage to serve over 1 billion ChatGPT users.
-- OpenAI is securing its frontier model training environment.
-- Corgi is a new agent and terminal multiplexer.
-- Kimi K3.1 Pro has been introduced.
+- Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness.
+- Cerebras Deploys Trillion-Parameter AI Models.
+- Argus – a free, open-source agentic security operations platform – MIT.
+- Oai-math-revised: a community hub for revising OpenAI's math write-ups.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8][Evolving Threat: http2shell is an RCE in Node, Python, and more]] (140pts, 73 comments)
-- [[https://openai.com/index/securing-our-frontier-model-training-environment/][Securing our frontier model training environment]] (99pts, 103 comments)
-- [[https://corgi.computer/][Show HN: Corgi, a helpful {agent, terminal} multiplexer]] (65pts, 15 comments)
-- [[https://twitter.com/ZelenskyyUa/status/2113677048354947180][Volodymyr Zelenskyy: The speed limits on Starlink and Starshield are still there]] (44pts, 14 comments)
-- [[https://rtfeldman.com/fp-vs-c][How close can pure functional programming get to C?]] (36pts, 2 comments)
+- [[https://github.com/slee-persis/GVS5H][Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness]] (101pts, 29 comments)
+- [[https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras][Cerebras Deploys Trillion-Parameter AI Models]] (77pts, 24 comments)
+- [[https://ratfactor.com/cards/limitations][The Importance of Limitations for Creativity and Learning (2023)]] (50pts, 12 comments)
+- [[https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/][Oai-math-revised: a community hub for revising OpenAI's math write-ups]] (41pts, 33 comments)
+- [[https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films]["Musk" Documentary Pulled from Almost Every One of 472 Theaters After One Week]] (39pts, 11 comments)
+- [[https://thomasunise.com/argus][Argus – a free, open-source agentic security operations platform – MIT]] (27pts, 9 comments)
+- [[https://twitter.com/chrislakin/status/2113358733548081528][Claude Code slyly adding users' emails to outbound HTTP]] (21pts, 4 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://openai.com/index/scaling-storage-one-billion-users-part-two][Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)]] — OpenAI Blog
-- [[https://openai.com/index/securing-our-frontier-model-training-environment][Securing our frontier model training environment]] — OpenAI Blog
-- [[https://simonwillison.net/2026/Oct/23/quick-study-painter/][Quick Study]] — Simon Willison
-- [[https://simonwillison.net/2026/Oct/23/kimi-k31-pro/][Introducing Kimi K3.1 Pro]] — Simon Willison
+- (none)
