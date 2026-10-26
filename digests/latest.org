@@ -1,19 +1,22 @@
-* AI Digest — 2026-10-25
+* AI Digest — 2026-10-26
 
 ** Signal (LLM-filtered)
-- Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness.
-- Cerebras Deploys Trillion-Parameter AI Models.
-- Argus – a free, open-source agentic security operations platform – MIT.
-- Oai-math-revised: a community hub for revising OpenAI's math write-ups.
+- A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis.
+- OpenAI and Anthropic cut their LLM prices by up to 80% within a few months.
+- PaperPilot is a zero-cloud, pure-Rust PDF engine with WASM and MCP.
+- Apollo reports zero financial payoff from AI outside the tech industry.
+- The case of Adobe v ArtCraft offers insights into AI and intellectual property.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://github.com/slee-persis/GVS5H][Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness]] (101pts, 29 comments)
-- [[https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras][Cerebras Deploys Trillion-Parameter AI Models]] (77pts, 24 comments)
-- [[https://ratfactor.com/cards/limitations][The Importance of Limitations for Creativity and Learning (2023)]] (50pts, 12 comments)
-- [[https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/][Oai-math-revised: a community hub for revising OpenAI's math write-ups]] (41pts, 33 comments)
-- [[https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films]["Musk" Documentary Pulled from Almost Every One of 472 Theaters After One Week]] (39pts, 11 comments)
-- [[https://thomasunise.com/argus][Argus – a free, open-source agentic security operations platform – MIT]] (27pts, 9 comments)
-- [[https://twitter.com/chrislakin/status/2113358733548081528][Claude Code slyly adding users' emails to outbound HTTP]] (21pts, 4 comments)
+- [[https://lynchlab.net/llm-skin-cancer][A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis]] (505pts, 227 comments)
+- [[https://minimaxir.com/2026/10/cheap-llms/][OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?]] (235pts, 260 comments)
+- [[https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category][Removing Next.js Got My Blog to 100 on Every Lighthouse Category]] (94pts, 47 comments)
+- [[https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace][What Adobe v ArtCraft teaches us]] (88pts, 98 comments)
+- [[https://armincat.com/articles/eunice-is-almost-here][Eunice is almost here]] (72pts, 73 comments)
+- [[https://github.com/KillaBoi/StealMyBitcoin-PoC][Steal My Bitcoin CTF PoC]] (63pts, 10 comments)
+- [[https://github.com/KrushnaVardhanReddy/PaperPilot][PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP]] (52pts, 8 comments)
+- [[https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10][Apollo says AI has delivered 'zero financial payoff' outside the tech industry]] (47pts, 28 comments)
+- [[https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay][If AI displaces human workers, they will lose more than just pay]] (28pts, 54 comments)
 
 ** Blogs / changelogs (last 24h)
-- (none)
+- [[https://simonwillison.net/2026/Oct/25/seam-cutter/][Seam Cutter]] — Simon Willison
