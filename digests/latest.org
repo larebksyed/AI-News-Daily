@@ -1,22 +1,29 @@
-* AI Digest — 2026-10-26
+* AI Digest — 2026-10-27
 
 ** Signal (LLM-filtered)
-- A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis.
-- OpenAI and Anthropic cut their LLM prices by up to 80% within a few months.
-- PaperPilot is a zero-cloud, pure-Rust PDF engine with WASM and MCP.
-- Apollo reports zero financial payoff from AI outside the tech industry.
-- The case of Adobe v ArtCraft offers insights into AI and intellectual property.
+- Google AI is mapping the human brain with AI.
+- Greptile uses GPT-6 Astra for advanced bug detection.
+- CodeRabbit leverages GPT-6.1 Sol for code security.
+- Ultrafast AI cut incident investigation times at OpenAI.
+- The Exponential Time Hypothesis has been disproven.
+- There are now five inference providers for DeepSeek.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://lynchlab.net/llm-skin-cancer][A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis]] (505pts, 227 comments)
-- [[https://minimaxir.com/2026/10/cheap-llms/][OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?]] (235pts, 260 comments)
-- [[https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category][Removing Next.js Got My Blog to 100 on Every Lighthouse Category]] (94pts, 47 comments)
-- [[https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace][What Adobe v ArtCraft teaches us]] (88pts, 98 comments)
-- [[https://armincat.com/articles/eunice-is-almost-here][Eunice is almost here]] (72pts, 73 comments)
-- [[https://github.com/KillaBoi/StealMyBitcoin-PoC][Steal My Bitcoin CTF PoC]] (63pts, 10 comments)
-- [[https://github.com/KrushnaVardhanReddy/PaperPilot][PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP]] (52pts, 8 comments)
-- [[https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10][Apollo says AI has delivered 'zero financial payoff' outside the tech industry]] (47pts, 28 comments)
-- [[https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay][If AI displaces human workers, they will lose more than just pay]] (28pts, 54 comments)
+- [[https://openai.com/index/building-scientific-understanding-with-academic-communities/][Three new discoveries in mathematics, computer science, and physics]] (709pts, 309 comments)
+- [[https://openai.com/index/introducing-gpt-6-1-terra/][GPT-6.1 Terra]] (566pts, 353 comments)
+- [[https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf][The Exponential Time Hypothesis Is False (pdf)]] (498pts, 183 comments)
+- [[https://blog.cloudflare.com/kv-cache-exposure-remediation/][Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)]] (111pts, 37 comments)
+- [[https://developers.openai.com/api/docs/models/gpt-6.1-terra][GPT 6.1 Terra]] (36pts, 4 comments)
+- [[https://allmodels.io/llm/abliterated][There are now 5 inference providers for abliterated DeepSeek]] (25pts, 9 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://simonwillison.net/2026/Oct/25/seam-cutter/][Seam Cutter]] — Simon Willison
+- [[https://openai.com/index/greptile-code-review-codex-astra][Greptile takes bug detection beyond code review with GPT-6 Astra]] — OpenAI Blog
+- [[https://openai.com/index/building-scientific-understanding-with-academic-communities][Working with academic communities to build scientific understanding]] — OpenAI Blog
+- [[https://openai.com/index/gpt-6-1-sol-coderabbit-code-security][GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases]] — OpenAI Blog
+- [[https://openai.com/index/chatgpt-expanding-world-of-work][ChatGPT’s expanding world of work]] — OpenAI Blog
+- [[https://openai.com/index/fanatics-streamline-fan-experience][How Fanatics and OpenAI streamline the fan experience]] — OpenAI Blog
+- [[https://openai.com/index/openai-cut-incident-investigation][How Ultrafast cut incident investigation from hours to minutes at OpenAI]] — OpenAI Blog
+- [[https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/][Our newest AI Quest: Mapping the human brain]] — Google AI Blog
+- [[https://simonwillison.net/2026/Oct/26/gpt-61-terra/][GPT-6.1 Terra]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/26/jason-koebler/][Quoting Jason Koebler]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/26/webframe-evaluation/][webframe: evaluated as a scraper and a sandbox]] — Simon Willison
