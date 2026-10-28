@@ -1,29 +1,20 @@
-* AI Digest — 2026-10-27
+* AI Digest — 2026-10-28
 
 ** Signal (LLM-filtered)
-- Google AI is mapping the human brain with AI.
-- Greptile uses GPT-6 Astra for advanced bug detection.
-- CodeRabbit leverages GPT-6.1 Sol for code security.
-- Ultrafast AI cut incident investigation times at OpenAI.
-- The Exponential Time Hypothesis has been disproven.
-- There are now five inference providers for DeepSeek.
+- Survival LLM offers an emergency library and AI assistant that runs locally.
+- Early progress is being made in accelerating drug development with Claude.
+- Git for the US Code aims to manage government source code.
+- Retell leverages OpenAI models to facilitate 100 million monthly calls.
+- OpenAI and Oracle are expanding their partnership to integrate Oracle applications into ChatGPT.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://openai.com/index/building-scientific-understanding-with-academic-communities/][Three new discoveries in mathematics, computer science, and physics]] (709pts, 309 comments)
-- [[https://openai.com/index/introducing-gpt-6-1-terra/][GPT-6.1 Terra]] (566pts, 353 comments)
-- [[https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf][The Exponential Time Hypothesis Is False (pdf)]] (498pts, 183 comments)
-- [[https://blog.cloudflare.com/kv-cache-exposure-remediation/][Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)]] (111pts, 37 comments)
-- [[https://developers.openai.com/api/docs/models/gpt-6.1-terra][GPT 6.1 Terra]] (36pts, 4 comments)
-- [[https://allmodels.io/llm/abliterated][There are now 5 inference providers for abliterated DeepSeek]] (25pts, 9 comments)
+- [[https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/][Anthropic trained Claude on illegally obtained Stanford professors' books]] (500pts, 269 comments)
+- [[https://www.brangus.io/survival-llm][Survival LLM: AI assistant and emergency library that runs on your own computer]] (273pts, 121 comments)
+- [[https://www.anthropic.com/research/early-progress-drug-development][Early progress on accelerating drug development with Claude]] (192pts, 167 comments)
+- [[https://lexifina.com/blog/git-for-the-us-code][Git for the US Code]] (157pts, 74 comments)
+- [[https://www.anthropic.com/news/expanding-partnership-gsa][Expanding our partnership with GSA to bring Claude to all levels of government]] (35pts, 27 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://openai.com/index/greptile-code-review-codex-astra][Greptile takes bug detection beyond code review with GPT-6 Astra]] — OpenAI Blog
-- [[https://openai.com/index/building-scientific-understanding-with-academic-communities][Working with academic communities to build scientific understanding]] — OpenAI Blog
-- [[https://openai.com/index/gpt-6-1-sol-coderabbit-code-security][GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases]] — OpenAI Blog
-- [[https://openai.com/index/chatgpt-expanding-world-of-work][ChatGPT’s expanding world of work]] — OpenAI Blog
-- [[https://openai.com/index/fanatics-streamline-fan-experience][How Fanatics and OpenAI streamline the fan experience]] — OpenAI Blog
-- [[https://openai.com/index/openai-cut-incident-investigation][How Ultrafast cut incident investigation from hours to minutes at OpenAI]] — OpenAI Blog
-- [[https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/][Our newest AI Quest: Mapping the human brain]] — Google AI Blog
-- [[https://simonwillison.net/2026/Oct/26/gpt-61-terra/][GPT-6.1 Terra]] — Simon Willison
-- [[https://simonwillison.net/2026/Oct/26/jason-koebler/][Quoting Jason Koebler]] — Simon Willison
-- [[https://simonwillison.net/2026/Oct/26/webframe-evaluation/][webframe: evaluated as a scraper and a sandbox]] — Simon Willison
+- [[https://openai.com/index/retell-ai][Retell uses OpenAI models to help power 100M monthly calls]] — OpenAI Blog
+- [[https://openai.com/index/oracle-apps-in-chatgpt][OpenAI expands partnership with Oracle to bring its apps to ChatGPT]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/][Game Boy Color on My Conference Badge]] — Simon Willison
