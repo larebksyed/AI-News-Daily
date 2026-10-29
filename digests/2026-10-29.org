@@ -1,0 +1,23 @@
+* AI Digest — 2026-10-29
+
+** Signal (LLM-filtered)
+- Google announced Gemini 4 Carbon, a significant advancement in AI capabilities.
+- OpenAI and ServiceNow are deepening their enterprise workflow partnership.
+- Legora is developing an agentic operating system for legal work.
+- Claude Code's token efficiency concerns highlight current LLM limitations.
+- MicroZig's strict no-AI policy signals a specific industry reaction to AI integration.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/][Gemini 4 Carbon]] (868pts, 715 comments)
+- [[https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce][Claude Code burns ~15–20% of your tokens on a 3-word status line]] (196pts, 42 comments)
+- [[https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md][MicroZig to Adopt Strict No LLM / No AI Policy]] (49pts, 67 comments)
+- [[https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/][New York Times adds more AI features to its Cooking app. Users aren't thrilled]] (48pts, 88 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/openai-servicenow-partnership-expansion][OpenAI and ServiceNow expand partnership across enterprise workflows]] — OpenAI Blog
+- [[https://openai.com/index/the-future-of-the-firm][The future of the firm]] — OpenAI Blog
+- [[https://openai.com/index/legora][Legora is building the agentic operating system for legal work]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Oct/28/ted-sanders/][Quoting Ted Sanders]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/28/github-octoverse-2026/][GitHub Octoverse 2026]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/28/vibe-game-development/][The October inflection point for vibe game development]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/28/terk-terkowitz/][Quoting Terk Terkowitz]] — Simon Willison
