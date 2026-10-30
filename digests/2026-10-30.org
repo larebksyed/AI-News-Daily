@@ -1,0 +1,31 @@
+* AI Digest — 2026-10-30
+
+** Signal (LLM-filtered)
+- Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5.
+- We ran AI agent swarms in Minecraft and Mindustry.
+- Claude Duet is the first personal-assistant-type harness that feels useful.
+- IgE disruptor for food allergy with Claude-enabled antibody design [pdf].
+- An updated Model Spec for more capable and beneficial AI.
+- How we detect frontier model misalignment.
+- Building a multiplayer game world with autonomous Fable-class models.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1][Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5]] (330pts, 240 comments)
+- [[https://labs.ycombinator.com/projects/games/index.html][We ran AI agent swarms in Minecraft and Mindustry]] (240pts, 82 comments)
+- [[https://github.com/johncassil/dontallow][Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"]] (120pts, 91 comments)
+- [[https://fig.blue/posts/duet-is-the-future/][Claude Duet is the first personal-assistant-type harness that feels useful]] (114pts, 113 comments)
+- [[https://lumi.codeberg.page/blog/software-community.html][The importance of communities around software]] (101pts, 110 comments)
+- [[https://github.com/picocss/pico/discussions/754][Pico CSS is no longer maintained]] (89pts, 22 comments)
+- [[https://divergencelabs.com/publications/ige-preprint.pdf][IgE disruptor for food allergy with Claude-enabled antibody design (pdf)]] (44pts, 35 comments)
+- [[https://www.penligent.ai/hackinglabs/cve-2026-98432/][CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation]] (38pts, 27 comments)
+- [[https://news.ycombinator.com/item?id=50286306][Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites]] (27pts, 3 comments)
+- [[https://github.com/Millillion/lasm][Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge]] (21pts, 3 comments)
+- [[https://news.ycombinator.com/item?id=50296367][Ask HN: Opus 5.5 suddenly dumb as rocks?]] (21pts, 20 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/updated-model-spec][An updated Model Spec for more capable and beneficial AI]] — OpenAI Blog
+- [[https://openai.com/index/how-we-detect-frontier-model-misalignment][How we detect frontier model misalignment]] — OpenAI Blog
+- [[https://openai.com/index/ropes-gray-ai-diligence][How Ropes & Gray is developing AI for transactional diligence]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Oct/29/api-credits/][API credits benefit for eligible ChatGPT subscriptions]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/][Building a multiplayer game world with autonomous Fable-class models]] — Simon Willison
+- [[https://simonwillison.net/2026/Oct/29/ben-hylak/][Quoting Ben Hylak]] — Simon Willison
