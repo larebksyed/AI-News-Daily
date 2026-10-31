@@ -1,0 +1,26 @@
+* AI Digest — 2026-10-31
+
+** Signal (LLM-filtered)
+- Claude Code VS Code extension with backdoor released on Cursor marketplace.
+- Anthropic may not secure investment-grade rating after IPO, Blackstone says.
+- OpenAI raises less than half of $30B target.
+- Anthropic Cracking Down on Video Game Rewrites.
+- OpenAI Blog: Making it easier for websites to express AI training preferences.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2][Claude Code VS Code extension with backdoor released on Cursor marketplace]] (399pts, 1 comments)
+- [[https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f][Anthropic may not secure investment-grade rating after IPO, Blackstone says]] (301pts, 248 comments)
+- [[https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5][OpenAI raises less than half of $30B target]] (112pts, 61 comments)
+- [[https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968][Anthropic Cracking Down on Video Game Rewrites]] (106pts, 104 comments)
+- [[https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/][Anthropic to receive high 'junk' rating from credit agencies following IPO]] (83pts, 58 comments)
+- [[https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/][Sam Altman Thinks You're Wasting DRAM]] (82pts, 93 comments)
+- [[https://sketch.wakeshift.ai/games/q5ucru][Show HN: Sketch Stadium – watch your agent play Pictionary]] (31pts, 9 comments)
+- [[https://www.thegamer.com/openai-ceo-sam-altman-consumers-having-dram-terrible/][OpenAI CEO Sam Altman Says You Having DRAM Instead of Data Centers Is "Terrible"]] (23pts, 8 comments)
+- [[https://openai.com/index/fair-use-benefits-everyone/][Fair Use Benefits Everyone]] (21pts, 53 comments)
+- [[https://noai.duckduckgo.com/?q=rom+a+global+allocation+perspective%2C+actually%2C+it%E2%80%99s+quite+terrible+to+have+everybody+have+a+bunch+of+the+world%E2%80%99s+limited+supply+of+DRAM+sitting+in+their+own+computer+and+being+used+5%25+of+the+time.+You+want+maximum+utilization+in+the+cloud+if+you%E2%80%99re+trying+to+deal+with+this+very+supply-constrained+environment&ia=web][RAM wasted on users PCs.. should be concentrated on datacenters]] (20pts, 4 comments)
+- [[https://news.ycombinator.com/item?id=50312174][Tell HN: X is opening any tweet link in a webview whether you press it or not]] (20pts, 1 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/helping-websites-express-ai-training-preferences][Making it easier for websites to express AI training preferences]] — OpenAI Blog
+- [[https://openai.com/index/community-safety-report-and-new-protections-for-teens][Community safety report and new protections for teens]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Oct/30/nesformer/][dbreunig/nesformer]] — Simon Willison
