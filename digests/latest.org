@@ -1,24 +1,19 @@
-* AI Digest — 2026-11-01
+* AI Digest — 2026-11-02
 
 ** Signal (LLM-filtered)
-- ChatGPT and Codex usage limits are merging.
-- Anthropic blocks users for anything touching training larger models.
-- Anthropic takes steps to block Claude from reverse-engineering video games.
-- AI startup hacks Anthropic, gains access to employee details, internal messages.
-- Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM.
+- Sam Altman advocates for DRAM capacity allocation to data centers over personal computers.
+- Anthropic's Mythos-class model has allegedly been leaked on Hugging Face.
+- OpenIDEA is presented as an IDE rebuilt in Rust.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://www.parameter.ai/labs/we-found-a-gap-at-openai][Do the math: How we took over ChatGPT accounts]] (315pts, 157 comments)
-- [[https://twitter.com/jiahaoshao1/status/2116475922190922088][Anthropic blocks users for anything touching training larger models]] (289pts, 161 comments)
-- [[https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering][Anthropic takes steps to block Claude from reverse-engineering video games]] (126pts, 77 comments)
-- [[https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26][AI startup hacks Anthropic, gains access to employee details, internal messages]] (74pts, 18 comments)
-- [[https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked][Anthropic's Claude AI blocks video game cloning and reverse-engineering]] (69pts, 41 comments)
-- [[https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits][ChatGPT and Codex usage limits merging]] (57pts, 21 comments)
-- [[https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech][Why Anthropic's filing crushed tech stocks]] (51pts, 78 comments)
-- [[https://www.reddit.com/r/ProtonMail/comments/1xkezig/im_a_proton_employee_and_im_breaking_my_silence/][I'm a Proton employee and I'm breaking my silence]] (49pts, 30 comments)
-- [[https://arxiv.org/abs/2409.02292][Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM]] (41pts, 19 comments)
-- [[https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games][Anthropic orders AI tool Claude to stop remaking video games]] (29pts, 16 comments)
+- [[https://eva.ac/blog/llms/][So I guess everyone uses LLMs to think now]] (67pts, 108 comments)
+- [[https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization][Sam Altman says DRAM capacity should go to data centers, not personal computers]] (61pts, 77 comments)
+- [[https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture][AI fan wikis riddled with errors are muddying the waters of games culture]] (59pts, 33 comments)
+- [[https://news.ycombinator.com/item?id=50326727][Anthropic's Mythos-class model allegedly leaked on Hugging Face]] (45pts, 46 comments)
+- [[https://chaosmanage.github.io/i-killed-unlimited-chatgpt/][I Am the Reason OpenAI Is Killing Unlimited Chats]] (39pts, 7 comments)
+- [[https://github.com/l0ng-ai/openidea][OpenIDEA: The IDE you know, rebuilt in Rust]] (39pts, 53 comments)
+- [[https://huggingface.co/burner22/numbat][Alleged Mythos Class Anthropic Checkpoint Leak]] (35pts, 13 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/][How We Took Over ChatGPT Accounts]] — Simon Willison
-- [[https://simonwillison.net/2026/Oct/31/datasette-llm/][datasette-llm 0.1a9]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/][If in doubt, delete the uv.lock file]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/1/kyle-kingsbury/][Quoting Kyle Kingsbury]] — Simon Willison

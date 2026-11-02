@@ -1,0 +1,19 @@
+* AI Digest — 2026-11-02
+
+** Signal (LLM-filtered)
+- Sam Altman advocates for DRAM capacity allocation to data centers over personal computers.
+- Anthropic's Mythos-class model has allegedly been leaked on Hugging Face.
+- OpenIDEA is presented as an IDE rebuilt in Rust.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://eva.ac/blog/llms/][So I guess everyone uses LLMs to think now]] (67pts, 108 comments)
+- [[https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization][Sam Altman says DRAM capacity should go to data centers, not personal computers]] (61pts, 77 comments)
+- [[https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture][AI fan wikis riddled with errors are muddying the waters of games culture]] (59pts, 33 comments)
+- [[https://news.ycombinator.com/item?id=50326727][Anthropic's Mythos-class model allegedly leaked on Hugging Face]] (45pts, 46 comments)
+- [[https://chaosmanage.github.io/i-killed-unlimited-chatgpt/][I Am the Reason OpenAI Is Killing Unlimited Chats]] (39pts, 7 comments)
+- [[https://github.com/l0ng-ai/openidea][OpenIDEA: The IDE you know, rebuilt in Rust]] (39pts, 53 comments)
+- [[https://huggingface.co/burner22/numbat][Alleged Mythos Class Anthropic Checkpoint Leak]] (35pts, 13 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/][If in doubt, delete the uv.lock file]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/1/kyle-kingsbury/][Quoting Kyle Kingsbury]] — Simon Willison
