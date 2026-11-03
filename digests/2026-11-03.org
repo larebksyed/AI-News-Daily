@@ -1,0 +1,33 @@
+* AI Digest — 2026-11-03
+
+** Signal (LLM-filtered)
+- Momentic launches agents that catch bugs by using your app.
+- Claude Opus 5.5 demonstrates capability in generating architectural drawings.
+- OpenAI discusses scaling Git infrastructure.
+- OpenAI introduces a program to reward security researchers.
+- OpenAI outlines preparations for its next security sprint.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11][Anthropic's internal AI use, at retail prices, now exceeds its employee pay]] (306pts, 245 comments)
+- [[https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/][The SEC Should Block Anthropic's IPO to Protect the Public]] (279pts, 217 comments)
+- [[https://www.regenerator1.com/p/anthropics-growth-just-flattened][Anthropic's growth just flattened]] (193pts, 223 comments)
+- [[https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near][Jobless tech workers are being left out of San Francisco's AI boom]] (169pts, 243 comments)
+- [[https://openai.com/index/scaling-git-at-openai/][Scaling Git at OpenAI]] (142pts, 62 comments)
+- [[https://momentic.ai/][Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app]] (137pts, 91 comments)
+- [[https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now][Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings]] (92pts, 31 comments)
+- [[https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f][Anthropic reveals $900B AI spending commitments ahead of IPO]] (71pts, 44 comments)
+- [[https://deploymentsafety.openai.com/gpt-rosalind-6][GPT-Rosalind-6 System Card Addendum]] (66pts, 55 comments)
+- [[https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/][LLMs are not superhuman at reading and writing neural network weights]] (50pts, 4 comments)
+- [[https://www.axios.com/2026/11/02/anthropic-spending-revenue-surge][Anthropic's spending commitments surge to nearly $900B]] (31pts, 2 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/scaling-git-at-openai][Scaling Git at OpenAI]] — OpenAI Blog
+- [[https://openai.com/index/grid-protectors-program][Introducing the Grid Protectors Program]] — OpenAI Blog
+- [[https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties][Rewarding defenders with bigger bug bounties]] — OpenAI Blog
+- [[https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai][Preparing our next security sprint to harden OpenAI]] — OpenAI Blog
+- [[https://openai.com/index/lifeval][LifeVal]] — OpenAI Blog
+- [[https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/][The latest AI news we announced in October 2026]] — Google AI Blog
+- [[https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/][I discovered a sound that leaks your exact location (and it's everywhere) - YouTube]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/3/october-newsletter/][October sponsors-only newsletter]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/2/llm/][llm 0.37]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/][The U.S. Census Bureau and “Super Intelligence”]] — Simon Willison
