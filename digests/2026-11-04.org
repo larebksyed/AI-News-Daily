@@ -1,0 +1,25 @@
+* AI Digest — 2026-11-04
+
+** Signal (LLM-filtered)
+- OpenAI is reportedly re-enabling model training on Codex chats.
+- Kairos, an open-source risk and fraud decisioning platform, has been released.
+- Anthropic's IPO filing reveals concerns about potential market conditions affecting its valuation.
+- OpenAI is focusing on accelerating engineering for the physical world.
+- Cisco is leveraging OpenAI for machine-speed defense.
+- Heimstaden is using AI for residential real estate management.
+- Qwen 3.8 27B demonstrates the capability to interpret model weights on a laptop.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://news.ycombinator.com/item?id=50352757][OpenAI seems to be silently re-enabling model training on Codex chats]] (461pts, 144 comments)
+- [[https://flipper.net/pages/flipper-one][Preparing for the Flipper One Kickstarter and opening pre-orders]] (198pts, 85 comments)
+- [[https://github.com/finic-ai/kairos][Show HN: Kairos – Open-source risk and fraud decisioning platform]] (82pts, 17 comments)
+- [[https://openathena.ai/blog/there-is-no-posttraining-data-commons/][There is no posttraining data commons]] (53pts, 16 comments)
+- [[https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today][Giant canyon on Mars is still tectonically active]] (52pts, 3 comments)
+- [[https://mrdoob.github.io/codevember-2026/01/][Jelly Sheet]] (49pts, 8 comments)
+- [[https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive][Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI]] (30pts, 77 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/accelerating-engineering-for-the-physical-world][Accelerating engineering for the physical world]] — OpenAI Blog
+- [[https://openai.com/index/cisco-cyber][How Cisco defends at machine speed with OpenAI]] — OpenAI Blog
+- [[https://openai.com/index/heimstaden][Heimstaden is changing residential real estate management with AI]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/][Qwen 3.8 27B on my laptop can interpret model weights, too]] — Simon Willison
