@@ -1,0 +1,27 @@
+* AI Digest — 2026-11-05
+
+** Signal (LLM-filtered)
+- Gemini trains on chat history, even for subscribers.
+- OpenAI to acquire Pierre Computer Company.
+- Progress on provable inference for large language models.
+- Kino AI launches as an AI media manager and video editor.
+- Gauge offers an open-source CLI for recursive documentation improvement.
+- Daybreak Red is now available in AWS GovCloud.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://news.ycombinator.com/item?id=50363461][Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)]] (647pts, 168 comments)
+- [[https://openai.com/index/a-thousand-fewer-paths-to-root/][A thousand fewer paths to root]] (246pts, 140 comments)
+- [[https://openai.com/index/openai-to-acquire-pierre/][OpenAI to acquire Pierre Computer Company]] (218pts, 69 comments)
+- [[https://openai.com/index/introducing-images-2-6/][Images 2.6]] (211pts, 137 comments)
+- [[https://www.anthropic.com/research/provable-inference][Progress on provable inference for large language models]] (200pts, 88 comments)
+- [[https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed][BYD doubles its Brazil market share to 9.7% a year after opening its local plant]] (126pts, 122 comments)
+- [[https://news.ycombinator.com/item?id=50368804][Launch HN: Kino AI (YC S23) – AI media manager and video editor]] (82pts, 31 comments)
+- [[https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/][You'll need nerves of steel to work with AI agents]] (45pts, 58 comments)
+- [[https://streamvessel.com/blog/mcp-trusted-redirect-uris][Letting users trust their own MCP clients, without opening a phishing hole]] (32pts, 5 comments)
+- [[https://github.com/gauge-sh/gauge-cli][Show HN: Gauge – Open-Source CLI to recursively improve your docs]] (26pts, 4 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/openai-to-acquire-pierre][OpenAI to acquire Pierre Computer Company, Inc.]] — OpenAI Blog
+- [[https://openai.com/index/daybreak-red-aws-govcloud][Daybreak Red is now available in AWS GovCloud (US-East)]] — OpenAI Blog
+- [[https://openai.com/index/a-thousand-fewer-paths-to-root][A thousand fewer paths to root]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Nov/4/datasette-llm/][datasette-llm 0.1a10]] — Simon Willison
