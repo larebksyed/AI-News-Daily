@@ -1,0 +1,16 @@
+* AI Digest — 2026-11-08
+
+** Signal (LLM-filtered)
+- Anthropic's Claude Code can inadvertently expose sensitive information like passwords.
+- Research outlines key components for developing robust AI agent memory systems.
+- A new WhatsApp client named ZapFast is released, built with Rust and egui.
+- Datasette's latest update adjusts how it serves HTTP headers to Firefox for HTML pages.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again][Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files]] (298pts, 205 comments)
+- [[https://www.anthropic.com/research/components-of-agent-memory][The Components of Agent Memory]] (155pts, 86 comments)
+- [[https://caleb.software/posts/claude-to-pi.html][Goodbye Claude, Hello Pi]] (80pts, 38 comments)
+- [[https://github.com/crmne/zapfast][ZapFast: A fast, native WhatsApp client in Rust and egui]] (34pts, 16 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://simonwillison.net/2026/Nov/7/link-rel-next/][datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages]] — Simon Willison
