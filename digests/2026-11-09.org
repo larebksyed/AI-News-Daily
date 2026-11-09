@@ -1,0 +1,17 @@
+* AI Digest — 2026-11-09
+
+** Signal (LLM-filtered)
+- OpenAI secures $11B in funding at a $1.25T valuation.
+- Anthropic inks a $3.4B deal for gas-fired power for its data centers.
+- Goldman Sachs withdraws Claude Code access for its employees.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers][Goldman Sachs is pulling Claude Code from its bankers and traders]] (689pts, 384 comments)
+- [[https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/][OpenAI raises $11B at a $1.25T valuation]] (185pts, 204 comments)
+- [[https://blog.zortax.de/posts/a-critique-of-gpui][A Critique of GPUI]] (48pts, 19 comments)
+- [[https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0][Anthropic strikes $3.4B deal to generate gas-fired power for data centres]] (40pts, 28 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://simonwillison.net/2026/Nov/9/hn-50421091/][The Web Is More Than Enough, by Paul Ford]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/9/details-summary/][Hide your slop PR descriptions behind <details><summary>]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/][parse_number() as a SQLite extension: C vs Rust]] — Simon Willison
