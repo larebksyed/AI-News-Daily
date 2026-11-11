@@ -1,29 +1,30 @@
-* AI Digest — 2026-11-10
+* AI Digest — 2026-11-11
 
 ** Signal (LLM-filtered)
-- Google Gemini routes personal Drive files and emails to human annotators.
-- Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far.
-- ChatGPT Desktop forwards your SSH agent to remote machines.
-- OpenAI Blog: CodeRabbit scales agentic software development and ships 20x more.
-- OpenAI Blog: ChatGPT Enterprise now available in AWS Marketplace.
+- Businesses in ChatGPT is now generally available.
+- Google Cloud launches Gemini for healthcare.
+- Gemini Intelligence brings new features to more devices.
+- Google is integrating Adobe creative tools into its apps.
+- Anthropic-discovered vulnerabilities are being tracked.
+- Introducing Our Smallest, Most Efficient Model: Muse Ember.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://www.anthropic.com/claude-fable-and-mythos-5-2][Claude Fable 5.2 and Mythos 5.2]] (969pts, 6 comments)
-- [[https://github.com/thisisme6598/gemini_files/][Google Gemini routes personal Drive files and emails to human annotators]] (510pts, 118 comments)
-- [[https://www.anthropic.com/claude-fable-and-mythos-5-2][Claude Fable 5.2 and Mythos 5.2]] (404pts, 719 comments)
-- [[https://artificialanalysis.ai/models/claude-fable-5-2][Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far]] (324pts, 232 comments)
-- [[https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/][Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics]] (296pts, 194 comments)
-- [[https://news.ycombinator.com/item?id=50422628][ChatGPT Desktop forwards your SSH agent to remote machines]] (207pts, 73 comments)
-- [[https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/][A year after the 100% AI mandate nobody understands our code]] (119pts, 152 comments)
-- [[https://meowdisplay.app/][Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse]] (85pts, 34 comments)
-- [[https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html][CoreWeave bond yield tops 16% as AI credit stress rises]] (75pts, 32 comments)
-- [[https://www.anthropic.com/research/claude-electronics-design][Testing Claude on real-world electronics design]] (25pts, 4 comments)
+- [[https://www.vulncheck.com/blog/anthropic-glasswing-november-update][Tracking Anthropic-discovered vulnerabilities]] (366pts, 168 comments)
+- [[https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp][Saltline: First-person shooter built by Fable 5.2]] (56pts, 64 comments)
+- [[https://gatezh.com/posts/macos-secure-enclave-ssh-keys/][Protecting SSH Keys with macOS Secure Enclave]] (53pts, 11 comments)
+- [[https://openai.com/index/ai-effect-on-freelance-work][Work at the Frontier: AI's effect on freelance work]] (38pts, 21 comments)
+- [[https://tis-100.wincon.dev/][LLMs Play Zachtronics' TIS-100]] (35pts, 4 comments)
+- [[https://openai.com/index/introducing-businesses-chatgpt/][Businesses in ChatGPT – OpenAI]] (35pts, 9 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://openai.com/index/chatgpt-enterprise-aws-marketplace][ChatGPT Enterprise now available in AWS Marketplace]] — OpenAI Blog
-- [[https://openai.com/index/control-room][Control Room: A central system to track and stop model workloads across our research infrastructure]] — OpenAI Blog
-- [[https://openai.com/index/coderabbit-codex-daybreak][CodeRabbit scales agentic software development and ships 20x more]] — OpenAI Blog
-- [[https://openai.com/index/kuken][Kuken Industries searches 70 years of drawings in minutes]] — OpenAI Blog
-- [[https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/][Quoting Prompting Claude Fable 5.2]] — Simon Willison
-- [[https://simonwillison.net/2026/Nov/9/llm-anthropic/][llm-anthropic 0.31]] — Simon Willison
-- [[https://simonwillison.net/2026/Nov/9/mysterious-beeps/][Locating the source of a mysterious beep with Claude]] — Simon Willison
+- [[https://openai.com/index/gilbert-tobin-sam-nickless][Gilbert + Tobin rethinks the business of law with AI]] — OpenAI Blog
+- [[https://openai.com/index/chatgpt-plus-for-veterans][ChatGPT Plus for veterans and servicemembers]] — OpenAI Blog
+- [[https://openai.com/index/helping-caregivers-use-ai-in-everyday-life][Helping caregivers use AI in everyday life]] — OpenAI Blog
+- [[https://openai.com/index/introducing-businesses-chatgpt][Introducing Businesses in ChatGPT]] — OpenAI Blog
+- [[https://openai.com/index/closing-ai-guidance-gap-education][Closing the AI guidance gap in education]] — OpenAI Blog
+- [[https://openai.com/index/ai-effect-on-freelance-work][Work at the Frontier: AI’s effect on freelance work]] — OpenAI Blog
+- [[https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/][Gemini Intelligence: New features, on more devices]] — Google AI Blog
+- [[https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/][We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.]] — Google AI Blog
+- [[https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/][Google Cloud launches Gemini for healthcare.]] — Google AI Blog
+- [[https://simonwillison.net/2026/Nov/10/llm-gemini/][llm-gemini 0.36]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/10/muse-ember/][Introducing Our Smallest, Most Efficient Model: Muse Ember]] — Simon Willison
