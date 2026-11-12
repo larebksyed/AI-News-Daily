@@ -1,30 +1,27 @@
-* AI Digest — 2026-11-11
+* AI Digest — 2026-11-12
 
 ** Signal (LLM-filtered)
-- Businesses in ChatGPT is now generally available.
-- Google Cloud launches Gemini for healthcare.
-- Gemini Intelligence brings new features to more devices.
-- Google is integrating Adobe creative tools into its apps.
-- Anthropic-discovered vulnerabilities are being tracked.
-- Introducing Our Smallest, Most Efficient Model: Muse Ember.
+- Google AI launches Gemini Decisions API for fast, calibrated multimodal decisions.
+- OpenAI partners with Gilbert + Tobin to integrate AI into legal practice.
+- Yogurt offers a free, private, open-source alternative to Granola for task management.
+- Klad introduces a paint application controllable by coding agents.
+- Modern Web Guidance 1.0 addresses coding agents' lack of web platform expertise.
+- Anthropic is reportedly holding an IPO roadshow.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://www.vulncheck.com/blog/anthropic-glasswing-november-update][Tracking Anthropic-discovered vulnerabilities]] (366pts, 168 comments)
-- [[https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp][Saltline: First-person shooter built by Fable 5.2]] (56pts, 64 comments)
-- [[https://gatezh.com/posts/macos-secure-enclave-ssh-keys/][Protecting SSH Keys with macOS Secure Enclave]] (53pts, 11 comments)
-- [[https://openai.com/index/ai-effect-on-freelance-work][Work at the Frontier: AI's effect on freelance work]] (38pts, 21 comments)
-- [[https://tis-100.wincon.dev/][LLMs Play Zachtronics' TIS-100]] (35pts, 4 comments)
-- [[https://openai.com/index/introducing-businesses-chatgpt/][Businesses in ChatGPT – OpenAI]] (35pts, 9 comments)
+- [[https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/][Gemini Decisions API]] (353pts, 109 comments)
+- [[https://github.com/FrigadeHQ/yogurt][Show HN: Yogurt – Free, private, open-source alternative to Granola]] (213pts, 91 comments)
+- [[https://github.com/klad-app/klad][Show HN: Klad, a paint app your coding agent can drive (source-available)]] (76pts, 30 comments)
+- [[https://developer.chrome.com/blog/modern-web-guidance-v1][Modern Web Guidance 1.0: The web platform expertise your coding agent is missing]] (29pts, 5 comments)
 
 ** Blogs / changelogs (last 24h)
 - [[https://openai.com/index/gilbert-tobin-sam-nickless][Gilbert + Tobin rethinks the business of law with AI]] — OpenAI Blog
 - [[https://openai.com/index/chatgpt-plus-for-veterans][ChatGPT Plus for veterans and servicemembers]] — OpenAI Blog
-- [[https://openai.com/index/helping-caregivers-use-ai-in-everyday-life][Helping caregivers use AI in everyday life]] — OpenAI Blog
-- [[https://openai.com/index/introducing-businesses-chatgpt][Introducing Businesses in ChatGPT]] — OpenAI Blog
-- [[https://openai.com/index/closing-ai-guidance-gap-education][Closing the AI guidance gap in education]] — OpenAI Blog
-- [[https://openai.com/index/ai-effect-on-freelance-work][Work at the Frontier: AI’s effect on freelance work]] — OpenAI Blog
-- [[https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/][Gemini Intelligence: New features, on more devices]] — Google AI Blog
-- [[https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/][We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.]] — Google AI Blog
-- [[https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/][Google Cloud launches Gemini for healthcare.]] — Google AI Blog
-- [[https://simonwillison.net/2026/Nov/10/llm-gemini/][llm-gemini 0.36]] — Simon Willison
-- [[https://simonwillison.net/2026/Nov/10/muse-ember/][Introducing Our Smallest, Most Efficient Model: Muse Ember]] — Simon Willison
+- [[https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/][Gemini Decisions API: Fast, calibrated multimodal decisions]] — Google AI Blog
+- [[https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/][Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.]] — Google AI Blog
+- [[https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/][Experience the art and legacy of Dr. Esther Mahlangu]] — Google AI Blog
+- [[https://simonwillison.net/2026/Nov/11/gemini-decisions-api/][Gemini Decisions API]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/11/aws-emulator/][aws-emulator]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/11/tools-tags/][Browse tools.simonwillison.net by tag]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/11/llm/][llm 0.37.2]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/][Anthropic's IPO roadshow video]] — Simon Willison
