@@ -1,25 +1,23 @@
-* AI Digest — 2026-11-13
+* AI Digest — 2026-11-14
 
 ** Signal (LLM-filtered)
-- Anthropic is reportedly pursuing an IPO.
-- Google Search is being significantly upgraded with Gemini 4 Hydrogen.
-- Gemini 4 Hydrogen and Orchestrator have been released.
-- Brave Search API now supports agentic payments via the x402 protocol.
-- AgentRun, an open-source self-improving managed agents platform, has been released.
+- OpenAI disbands its robotics team as its general models start running robots.
+- Anthropic upgrades Claude Code Projects to run parallel AI workers.
+- OpenAI introduces ChatGPT Wallet.
+- Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs.
+- Ggml v1.0.0 is released.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://ipo.anthropic.com/us/][Anthropic IPO]] (880pts, 842 comments)
-- [[https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/][Gemini 4 Hydrogen]] (499pts, 319 comments)
-- [[https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/][Gemini 4 Hydrogen and Orchestrator]] (368pts, 100 comments)
-- [[https://github.com/Parcha-ai/agentrun/blob/main/README.md][Show HN: AgentRun – open-source, Self-improving Managed Agents]] (90pts, 24 comments)
-- [[https://news.ycombinator.com/item?id=50471281][Show HN: Kapso – Iterative learning from enterprise data]] (42pts, 10 comments)
-- [[https://ray.hatchet.run][Distributed Ray Tracer]] (41pts, 12 comments)
-- [[https://brave.com/blog/search-api-agentic-payments/][Brave Search API now accepts agentic payments via the x402 protocol]] (26pts, 9 comments)
-- [[https://aistudio.google.com/docs/whats-new-gemini-4-hydrogen][Gemini 4 Hydrogen]] (20pts, 2 comments)
+- [[https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus][Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs]] (247pts, 125 comments)
+- [[https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/][OpenAI disbands its robotics team as its general models start running robots]] (155pts, 66 comments)
+- [[https://github.com/ggml-org/ggml/releases/tag/v1.0.0][Ggml v1.0.0]] (134pts, 21 comments)
+- [[https://claude.com/resources/articles/claude-meetings][Claude Meetings]] (87pts, 66 comments)
+- [[https://claude.com/resources/articles/projects-redesigned][Anthropic upgrades Claude Code Projects to run parallel AI workers]] (75pts, 72 comments)
+- [[https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/][Security Agencies Worldwide Found to Use Ad-Based Surveillance System]] (52pts, 1 comments)
+- [[https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11][Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical]] (32pts, 70 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://openai.com/business/customer-stories/amplitude][How Amplitude ships product improvements in 1–2 days with OpenAI]] — OpenAI Blog
-- [[https://openai.com/business/customer-stories/gondola][Gondola doubles revenue as its team builds more with Codex]] — OpenAI Blog
-- [[https://openai.com/business/customer-stories/holidays-extras-codex][Holiday Extras is rethinking what it can build with Codex]] — OpenAI Blog
-- [[https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/][Google Search gets a major upgrade with Gemini 4 Hydrogen]] — Google AI Blog
-- [[https://simonwillison.net/2026/Nov/12/llm-gemini/][llm-gemini 0.37]] — Simon Willison
+- [[https://openai.com/index/introducing-chatgpt-wallet][Introducing ChatGPT Wallet]] — OpenAI Blog
+- [[https://openai.com/business/customer-stories/shield][Shield helps technicians hand off legacy portal work with OpenAI]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Nov/13/datasette-cluster-map/][datasette-cluster-map 0.19]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/13/datasette-leaflet/][datasette-leaflet 0.3]] — Simon Willison
