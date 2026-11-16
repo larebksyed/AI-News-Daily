@@ -1,16 +1,21 @@
-* AI Digest — 2026-11-15
+* AI Digest — 2026-11-16
 
 ** Signal (LLM-filtered)
-- datasette-llm 0.1a11 released for LLM integration with Datasette.
-- Claude 3 Opus demonstrates advanced reasoning by deleting a professor's syllabus and notes.
+- Qwen4-Max represents a notable release in large language models.
+- "Your Agent Will Pick the Hackable One" hints at advancing agent capabilities.
+- A Human Reads the Anthropic IPO Filing signals a significant industry move.
+- OpenAI Blog: A step toward defining the Standard Model on a lattice indicates foundational AI research progress.
+- OpenAI Blog: Our new blog for science highlights a strategic shift in communication for OpenAI's research efforts.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://gitlab.com/snipedbywifi/terminactory][Show HN: A terminal-native idle factory game, written in Rust with ratatui]] (150pts, 37 comments)
-- [[https://www.netmeister.org/blog/claude-delusion.html][The Claude Delusion]] (146pts, 191 comments)
-- [[https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits][Claude asked to renumber pages deletes professor's syllabus, year of notes]] (45pts, 63 comments)
-- [[https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c][The Single Router in Southern Arkansas That Ground Air Travel to a Halt]] (43pts, 23 comments)
-- [[https://bobbiec.github.io/jamaican-font.html][Show HN: A custom font based on the Jamaican flag alphabet]] (22pts, 5 comments)
+- [[https://qwen.ai/blog?id=qwen4-max][Qwen4-Max]] (305pts, 103 comments)
+- [[https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/][Your Agent Will Pick the Hackable One]] (75pts, 59 comments)
+- [[https://news.ycombinator.com/item?id=50513451][Tell HN: HN is being scraped for emails to scam]] (55pts, 10 comments)
+- [[https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html][A Human Reads the Anthropic IPO Filing]] (21pts, 10 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://simonwillison.net/2026/Nov/14/datasette-llm/][datasette-llm 0.1a11]] — Simon Willison
-- [[https://simonwillison.net/2026/Nov/14/datasette-vega/][datasette-vega 0.7]] — Simon Willison
+- [[https://openai.com/index/step-toward-defining-the-standard-model][A step toward defining the Standard Model on a lattice]] — OpenAI Blog
+- [[https://openai.com/index/our-new-blog-for-science][Our new blog for science]] — OpenAI Blog
+- [[https://simonwillison.net/2026/Nov/15/datasette-maplibre/][datasette-maplibre 0.1a0]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/15/datasette/][datasette 1.0a43]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/15/datasette-2/][datasette 0.65.6]] — Simon Willison
