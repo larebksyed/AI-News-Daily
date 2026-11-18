@@ -1,0 +1,23 @@
+* AI Digest — 2026-11-18
+
+** Signal (LLM-filtered)
+- OpenAI announces GPT-6.2 Astra and Sol, representing significant model advancements.
+- StarSling launches, offering self-improving CI for agent-volume repositories.
+- Research advances computer-use agents for healthcare teams, signaling practical application shifts.
+- ChatGPT for Sales is introduced, indicating a focused enterprise application release.
+- Google AI promotes Gemini's practical integration, suggesting increased adoption or new capabilities.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://openai.com/index/introducing-gpt-6-2-astra-sol/][GPT‑6.2 Astra and Sol]] (1192pts, 746 comments)
+- [[https://starsling.dev][Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos]] (64pts, 37 comments)
+- [[https://openai.com/index/advancing-computer-use-for-healthcare-teams/][Advancing computer-use agents for healthcare teams]] (47pts, 30 comments)
+- [[https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/][Why is Gemini 4 Carbon taking so long?]] (24pts, 8 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/introducing-gpt-6-2-astra-sol][Introducing GPT-6.2 Astra and Sol]] — OpenAI Blog
+- [[https://openai.com/index/introducing-chatgpt-for-sales][Introducing ChatGPT for Sales]] — OpenAI Blog
+- [[https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/][Put Gemini to work for you]] — Google AI Blog
+- [[https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/][External sandboxes for coding agents]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/][GPT‑6.2 Astra and GPT‑6.2 Sol]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/17/datasette-lite/][Running the full server-side Datasette Python app in the browser with service workers and Pyodide]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/17/go-proverbs/][Quoting Go Proverbs]] — Simon Willison
