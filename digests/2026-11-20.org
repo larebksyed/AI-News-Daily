@@ -1,0 +1,25 @@
+* AI Digest — 2026-11-20
+
+** Signal (LLM-filtered)
+- Anthropic is reportedly planning a Nasdaq debut.
+- Claude has solved two open problems in the physics of black holes.
+- Gemini 4 Neon is the new #1 on the Models Engineering Index.
+- OpenAI has introduced Tool Retrieval in the Gemini API.
+- Onlook (YC W25) has launched as an open-source developer tool for designers.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/][Anthropic’s Nasdaq debut]] (1028pts, 2029 comments)
+- [[https://www.anthropic.com/research/claude-black-hole-physics][Claude solves two open problems in the physics of black holes]] (450pts, 208 comments)
+- [[https://git-aarvin.github.io/mei/][Gemini 4 Neon is the new #1 on the Models Engineering Index]] (327pts, 191 comments)
+- [[https://github.com/openssl/openssl/pull/33652][OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)]] (106pts, 54 comments)
+- [[https://github.com/onlook-dev/onlook/][Launch HN: Onlook (YC W25) – An open-source developer tool for designers]] (101pts, 72 comments)
+- [[https://moq.dev/blog/webrtc-is-still-the-problem/][OpenAI still has a WebRTC Problem]] (94pts, 28 comments)
+- [[https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/][No Bailout for the AI Bubble, Anthropic IPO Protesters Say]] (43pts, 25 comments)
+- [[https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police][An FBI agent called a Claude user about his chats]] (28pts, 24 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast][How OpenAI’s Performance Factory keeps ChatGPT fast]] — OpenAI Blog
+- [[https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/][Introducing Tool Retrieval in the Gemini API]] — Google AI Blog
+- [[https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/][Walter Isaacson on curiosity and creativity in the AI age.]] — Google AI Blog
+- [[https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/][Token fraud is here and it’s BAD (YouTube)]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/19/postgresql-19/][PostgreSQL 19 Released]] — Simon Willison
