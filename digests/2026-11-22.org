@@ -1,0 +1,15 @@
+* AI Digest — 2026-11-22
+
+** Signal (LLM-filtered)
+- Pandex establishes official European law for AI agents.
+- Anthropic's IPO aims to stabilize its stock through a closed position.
+- Muru is a new tool/platform.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/][Data Processing Incidents on Inference Providers]] (76pts, 29 comments)
+- [[https://www.pandex.io][Pandex – Official European Law for AI Agents, over MCP]] (58pts, 10 comments)
+- [[https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20][Anthropic's IPO bank closed position meant to stabilize stock]] (32pts, 1 comments)
+- [[https://www.youtube.com/watch?v=zqzk43bSdDI][Since last year, we asked: "What if AI solved the Riemann Hypothesis?"]] (24pts, 5 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://simonwillison.net/2026/Nov/21/muru/][Muru]] — Simon Willison

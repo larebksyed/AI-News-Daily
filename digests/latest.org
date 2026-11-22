@@ -1,21 +1,15 @@
-* AI Digest — 2026-11-21
+* AI Digest — 2026-11-22
 
 ** Signal (LLM-filtered)
-- OpenComputer, an open-source alternative to Devin, has been released.
-- OpenAI's blog discusses combatting adversarial distillation.
-- Anthropic's IPO struggles are contributing to a broader AI market downturn.
+- Pandex establishes official European law for AI agents.
+- Anthropic's IPO aims to stabilize its stock through a closed position.
+- Muru is a new tool/platform.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/][Google workers tell their employer not to punish schools that don't want AI]] (273pts, 200 comments)
-- [[https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394][Markets plunge: Nasdaq erases 2026 gains, S&P, Dow in corrections]] (187pts, 1 comments)
-- [[https://github.com/diggerhq/opencomputer][Show HN: OpenComputer – an open source alternative to Devin]] (91pts, 24 comments)
-- [[https://news.ycombinator.com/item?id=50583761][Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?]] (51pts, 61 comments)
-- [[https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90][Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street]] (50pts, 5 comments)
-- [[https://openai.com/index/combatting-adversarial-distillation/][Combatting adversarial distillation]] (34pts, 50 comments)
-- [[https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models][The Hungry Butler Effect: Concealed Commercial Incentives in LLMs]] (30pts, 8 comments)
-- [[https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did][Llms.txt and MCP didn't move the needle]] (30pts, 21 comments)
+- [[https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/][Data Processing Incidents on Inference Providers]] (76pts, 29 comments)
+- [[https://www.pandex.io][Pandex – Official European Law for AI Agents, over MCP]] (58pts, 10 comments)
+- [[https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20][Anthropic's IPO bank closed position meant to stabilize stock]] (32pts, 1 comments)
+- [[https://www.youtube.com/watch?v=zqzk43bSdDI][Since last year, we asked: "What if AI solved the Riemann Hypothesis?"]] (24pts, 5 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://openai.com/index/combatting-adversarial-distillation][Combatting adversarial distillation]] — OpenAI Blog
-- [[https://simonwillison.net/2026/Nov/20/ravi-vakil/][Quoting Ravi Vakil]] — Simon Willison
-- [[https://simonwillison.net/2026/Nov/20/levent-alpoge/][Quoting Levent Alpöge]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/21/muru/][Muru]] — Simon Willison
