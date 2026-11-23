@@ -1,0 +1,12 @@
+* AI Digest — 2026-11-23
+
+** Hacker News (last 24h, sorted by points)
+- [[https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/][87% of the Anthropic power will come from gas and 11% from coal in 2028]] (934pts, 935 comments)
+- [[https://openai.com/index/perplexity-and-intelligence/][Perplexity and Intelligence]] (542pts, 366 comments)
+- [[https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3][Progress map for the Lean formalization of Alessandro Masullo's manuscript]] (199pts, 154 comments)
+- [[https://pequalnp.com/][Agent swarm trying to solve P vs. NP]] (140pts, 112 comments)
+- [[https://github.com/AFK-surf/xnulinux][XNU Linux: Full OS X GUI Userspace on Linux]] (98pts, 34 comments)
+- [[https://github.com/mjwsolo/localcode][Localcode, open source agentic coding on your Mac with one command]] (46pts, 13 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://simonwillison.net/2026/Nov/22/select-styling/][Select Styling Specimens]] — Simon Willison
