@@ -1,12 +1,27 @@
-* AI Digest — 2026-11-23
+* AI Digest — 2026-11-24
+
+** Signal (LLM-filtered)
+- OpenAI and Cisco release Shirudo, an open-source runtime for shielding unpatched Linux.
+- Latent Introspection enables LLMs to detect prior concept injections.
+- Claude Ship is mentioned, indicating a potential significant release or development from Claude.
+- Declare is presented as a UI language for users and AI.
+- GLM-5.4 introduces Loop Transformers for generalized coding.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/][87% of the Anthropic power will come from gas and 11% from coal in 2028]] (934pts, 935 comments)
-- [[https://openai.com/index/perplexity-and-intelligence/][Perplexity and Intelligence]] (542pts, 366 comments)
-- [[https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3][Progress map for the Lean formalization of Alessandro Masullo's manuscript]] (199pts, 154 comments)
-- [[https://pequalnp.com/][Agent swarm trying to solve P vs. NP]] (140pts, 112 comments)
-- [[https://github.com/AFK-surf/xnulinux][XNU Linux: Full OS X GUI Userspace on Linux]] (98pts, 34 comments)
-- [[https://github.com/mjwsolo/localcode][Localcode, open source agentic coding on your Mac with one command]] (46pts, 13 comments)
+- [[https://github.com/anthropics/formal-math/tree/main/vp-vnp][VP ≠ VNP over Every Field]] (303pts, 264 comments)
+- [[https://openai.com/index/introducing-shirudo/][Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux]] (56pts, 15 comments)
+- [[https://arxiv.org/abs/2602.20031][Latent Introspection: LLMs Can Detect Prior Concept Injections]] (50pts, 4 comments)
+- [[https://claude.com/resources/articles/introducing-claude-ship][Claude Ship]] (41pts, 12 comments)
+- [[https://salvageyarddrone.wordpress.com/][Drone Maps of Salvage Yards]] (30pts, 11 comments)
+- [[https://davidtemkin.github.io/declarelang/][Declare is a UI language for you and your AI]] (28pts, 8 comments)
+- [[https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf][VP != VNP over Every Field (pdf)]] (26pts, 2 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://simonwillison.net/2026/Nov/22/select-styling/][Select Styling Specimens]] — Simon Willison
+- [[https://openai.com/index/introducing-shirudo][OpenAI and Cisco introduce Shirudo]] — OpenAI Blog
+- [[https://openai.com/business/learn/connected-intelligence-for-in-house-legal][Connected intelligence for in-house legal]] — OpenAI Blog
+- [[https://openai.com/business/customer-stories/richpanel-ai-customer-support][Richpanel helps companies automate 50% of support in 30 days]] — OpenAI Blog
+- [[https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/][A more tailored Google Search that’s uniquely yours]] — Google AI Blog
+- [[https://simonwillison.net/2026/Nov/24/datasette-charts/][datasette-charts 0.2a0]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/24/datasette-agent/][datasette-agent 0.7a1]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/23/glm-54/][GLM-5.4: Toward Generalized Coding with Our First Loop Transformer]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/23/ladybird/][Ladybird's first alpha release]] — Simon Willison
