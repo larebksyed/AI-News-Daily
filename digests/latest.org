@@ -1,27 +1,32 @@
-* AI Digest — 2026-11-24
+* AI Digest — 2026-11-25
 
 ** Signal (LLM-filtered)
-- OpenAI and Cisco release Shirudo, an open-source runtime for shielding unpatched Linux.
-- Latent Introspection enables LLMs to detect prior concept injections.
-- Claude Ship is mentioned, indicating a potential significant release or development from Claude.
-- Declare is presented as a UI language for users and AI.
-- GLM-5.4 introduces Loop Transformers for generalized coding.
+- GPT-6 models demonstrate intrinsic protein-design capabilities.
+- OpenAI reveals they solved VP ≠ VNP before Anthropic.
+- Searching for distant planets with Astra.
+- How Gemini is changing the game for Golden State's organization and fans.
+- Matrix Multiplication is Θ(n^2.25).
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://github.com/anthropics/formal-math/tree/main/vp-vnp][VP ≠ VNP over Every Field]] (303pts, 264 comments)
-- [[https://openai.com/index/introducing-shirudo/][Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux]] (56pts, 15 comments)
-- [[https://arxiv.org/abs/2602.20031][Latent Introspection: LLMs Can Detect Prior Concept Injections]] (50pts, 4 comments)
-- [[https://claude.com/resources/articles/introducing-claude-ship][Claude Ship]] (41pts, 12 comments)
-- [[https://salvageyarddrone.wordpress.com/][Drone Maps of Salvage Yards]] (30pts, 11 comments)
-- [[https://davidtemkin.github.io/declarelang/][Declare is a UI language for you and your AI]] (28pts, 8 comments)
-- [[https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf][VP != VNP over Every Field (pdf)]] (26pts, 2 comments)
+- [[https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf][Matrix Multiplication is Θ(n^2.25) (pdf)]] (391pts, 196 comments)
+- [[https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading][Anthropic breaks below $83 IPO price]] (375pts, 733 comments)
+- [[https://news.ycombinator.com/item?id=50630809][Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?]] (239pts, 180 comments)
+- [[https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/][GPT-6 models demonstrate intrinsic protein-design capabilities]] (229pts, 69 comments)
+- [[https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/][Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark]] (207pts, 111 comments)
+- [[https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa][Anthropic is below its IPO price]] (128pts, 3 comments)
+- [[https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026][OpenAI reveals they solved VP ≠ VNP before Anthropic]] (86pts, 91 comments)
+- [[https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F][Gemini refused to give me the lyrics to Twinkle Twinkle Little Star]] (85pts, 56 comments)
+- [[https://news.ycombinator.com/item?id=50634426][Launch HN: Versine (YC F26) – MCP to send and receive money]] (82pts, 65 comments)
+- [[https://rida.dev/blog/bypassing-ios-safari-60-fps-limit][Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native]] (75pts, 18 comments)
+- [[https://www.anthropic.com/research/working-with-ai][Working with AI]] (65pts, 66 comments)
+- [[https://www.marginalia.nu/log/a_141_marginalia_update/][Marginalia Search, Money, C++, Rust, AI, Stuff]] (46pts, 9 comments)
+- [[https://github.com/samcorcos/legatum/issues/147][Treasury CIO is too busy vibecoding instead of doing his job #147]] (40pts, 2 comments)
+- [[https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/][Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO]] (38pts, 13 comments)
+- [[https://noahbuilt.it/writing/qwen-on-5600-lambdas][Serving Qwen via AWS Lambdas for fun and 80x negative profit]] (30pts, 8 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://openai.com/index/introducing-shirudo][OpenAI and Cisco introduce Shirudo]] — OpenAI Blog
-- [[https://openai.com/business/learn/connected-intelligence-for-in-house-legal][Connected intelligence for in-house legal]] — OpenAI Blog
-- [[https://openai.com/business/customer-stories/richpanel-ai-customer-support][Richpanel helps companies automate 50% of support in 30 days]] — OpenAI Blog
-- [[https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/][A more tailored Google Search that’s uniquely yours]] — Google AI Blog
-- [[https://simonwillison.net/2026/Nov/24/datasette-charts/][datasette-charts 0.2a0]] — Simon Willison
-- [[https://simonwillison.net/2026/Nov/24/datasette-agent/][datasette-agent 0.7a1]] — Simon Willison
-- [[https://simonwillison.net/2026/Nov/23/glm-54/][GLM-5.4: Toward Generalized Coding with Our First Loop Transformer]] — Simon Willison
-- [[https://simonwillison.net/2026/Nov/23/ladybird/][Ladybird's first alpha release]] — Simon Willison
+- [[https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities][GPT-6 models demonstrate intrinsic protein-design capabilities]] — OpenAI Blog
+- [[https://openai.com/index/searching-for-distant-planets-with-astra][Searching for distant planets with Astra]] — OpenAI Blog
+- [[https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/][How Gemini is changing the game for Golden State's organization and fans.]] — Google AI Blog
+- [[https://simonwillison.net/2026/Nov/24/llm-inflection-points/][Three LLM inflection points in twelve months]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/24/astra-historical-mystery/][GPT 6.2 Astra Solves a Historical Mystery]] — Simon Willison
