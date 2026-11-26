@@ -1,32 +1,20 @@
-* AI Digest — 2026-11-25
+* AI Digest — 2026-11-26
 
 ** Signal (LLM-filtered)
-- GPT-6 models demonstrate intrinsic protein-design capabilities.
-- OpenAI reveals they solved VP ≠ VNP before Anthropic.
-- Searching for distant planets with Astra.
-- How Gemini is changing the game for Golden State's organization and fans.
-- Matrix Multiplication is Θ(n^2.25).
+- Anthropic released a significantly shorter version of GRH Lean verification.
+- Qwen has been released in a "Bare Metal" version.
+- OpenAI is reportedly cutting GPT-6.2 usage due to performance issues.
 
 ** Hacker News (last 24h, sorted by points)
-- [[https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf][Matrix Multiplication is Θ(n^2.25) (pdf)]] (391pts, 196 comments)
-- [[https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading][Anthropic breaks below $83 IPO price]] (375pts, 733 comments)
-- [[https://news.ycombinator.com/item?id=50630809][Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?]] (239pts, 180 comments)
-- [[https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/][GPT-6 models demonstrate intrinsic protein-design capabilities]] (229pts, 69 comments)
-- [[https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/][Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark]] (207pts, 111 comments)
-- [[https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa][Anthropic is below its IPO price]] (128pts, 3 comments)
-- [[https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026][OpenAI reveals they solved VP ≠ VNP before Anthropic]] (86pts, 91 comments)
-- [[https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F][Gemini refused to give me the lyrics to Twinkle Twinkle Little Star]] (85pts, 56 comments)
-- [[https://news.ycombinator.com/item?id=50634426][Launch HN: Versine (YC F26) – MCP to send and receive money]] (82pts, 65 comments)
-- [[https://rida.dev/blog/bypassing-ios-safari-60-fps-limit][Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native]] (75pts, 18 comments)
-- [[https://www.anthropic.com/research/working-with-ai][Working with AI]] (65pts, 66 comments)
-- [[https://www.marginalia.nu/log/a_141_marginalia_update/][Marginalia Search, Money, C++, Rust, AI, Stuff]] (46pts, 9 comments)
-- [[https://github.com/samcorcos/legatum/issues/147][Treasury CIO is too busy vibecoding instead of doing his job #147]] (40pts, 2 comments)
-- [[https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/][Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO]] (38pts, 13 comments)
-- [[https://noahbuilt.it/writing/qwen-on-5600-lambdas][Serving Qwen via AWS Lambdas for fun and 80x negative profit]] (30pts, 8 comments)
+- [[https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/][Rumors swirling that labs might have cracked Factoring in P]] (480pts, 353 comments)
+- [[https://github.com/lsernau/grh-lean][Much shorter version of GRH Lean verification from Anthropic]] (376pts, 192 comments)
+- [[https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf][The polynomial Hirsch conjecture is false (pdf)]] (147pts, 37 comments)
+- [[https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os][Bare Metal Qwen]] (106pts, 22 comments)
+- [[https://twitter.com/thsottiaux/status/2125784147889393806][OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster]] (91pts, 53 comments)
+- [[https://progrium.github.io/minipg/][Minipg: PostgreSQL as a Single Executable]] (37pts, 4 comments)
+- [[https://www.anthropic.com/research/migrating-api-to-rust][Migrating Our Messages API to Rust]] (26pts, 9 comments)
+- [[https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d][Wall Street Expects Anthropic's Committed $900B Debt to Be Junk]] (20pts, 4 comments)
 
 ** Blogs / changelogs (last 24h)
-- [[https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities][GPT-6 models demonstrate intrinsic protein-design capabilities]] — OpenAI Blog
-- [[https://openai.com/index/searching-for-distant-planets-with-astra][Searching for distant planets with Astra]] — OpenAI Blog
-- [[https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/][How Gemini is changing the game for Golden State's organization and fans.]] — Google AI Blog
-- [[https://simonwillison.net/2026/Nov/24/llm-inflection-points/][Three LLM inflection points in twelve months]] — Simon Willison
-- [[https://simonwillison.net/2026/Nov/24/astra-historical-mystery/][GPT 6.2 Astra Solves a Historical Mystery]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/25/scott-aaronson/][Quoting Scott Aaronson]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/25/datasette-charts/][datasette-charts 0.3a0]] — Simon Willison

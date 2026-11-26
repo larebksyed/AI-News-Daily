@@ -1,0 +1,20 @@
+* AI Digest — 2026-11-26
+
+** Signal (LLM-filtered)
+- Anthropic released a significantly shorter version of GRH Lean verification.
+- Qwen has been released in a "Bare Metal" version.
+- OpenAI is reportedly cutting GPT-6.2 usage due to performance issues.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/][Rumors swirling that labs might have cracked Factoring in P]] (480pts, 353 comments)
+- [[https://github.com/lsernau/grh-lean][Much shorter version of GRH Lean verification from Anthropic]] (376pts, 192 comments)
+- [[https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf][The polynomial Hirsch conjecture is false (pdf)]] (147pts, 37 comments)
+- [[https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os][Bare Metal Qwen]] (106pts, 22 comments)
+- [[https://twitter.com/thsottiaux/status/2125784147889393806][OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster]] (91pts, 53 comments)
+- [[https://progrium.github.io/minipg/][Minipg: PostgreSQL as a Single Executable]] (37pts, 4 comments)
+- [[https://www.anthropic.com/research/migrating-api-to-rust][Migrating Our Messages API to Rust]] (26pts, 9 comments)
+- [[https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d][Wall Street Expects Anthropic's Committed $900B Debt to Be Junk]] (20pts, 4 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://simonwillison.net/2026/Nov/25/scott-aaronson/][Quoting Scott Aaronson]] — Simon Willison
+- [[https://simonwillison.net/2026/Nov/25/datasette-charts/][datasette-charts 0.3a0]] — Simon Willison
