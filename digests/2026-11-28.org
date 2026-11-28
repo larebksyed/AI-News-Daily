@@ -1,0 +1,19 @@
+* AI Digest — 2026-11-28
+
+** Signal (LLM-filtered)
+- Inkling 2 Mini achieved 101 tokens/second on vLLM.
+- SessionGraph enables visualization of coding agent sessions.
+- Claude's update includes rules to ignore user skintone preferences.
+- Research explores Euclidean geometry in the asymptotic spectrum of tensors.
+- datasette-charts 0.4a0 was released.
+
+** Hacker News (last 24h, sorted by points)
+- [[https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai][Woman evicted after landlord's AI assistant told her she could delay rent]] (139pts, 112 comments)
+- [[https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/][Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10]] (52pts, 11 comments)
+- [[https://sessiongraph.ai/][SessionGraph: Visualize all your coding agent sessions in one interactive graph]] (42pts, 23 comments)
+- [[https://twitter.com/jakozloski/status/2126281598517576049][Claude silently added rules to ignore users skintone preferences in our app]] (34pts, 18 comments)
+- [[https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf][Euclidean geometry in the asymptotic spectrum of tensors (pdf)]] (34pts, 8 comments)
+- [[https://www.tracingwoodgrains.com/p/spitting-in-the-face-of-glaude][Spitting in the Face of Glaude]] (24pts, 0 comments)
+
+** Blogs / changelogs (last 24h)
+- [[https://simonwillison.net/2026/Nov/27/datasette-charts/][datasette-charts 0.4a0]] — Simon Willison
